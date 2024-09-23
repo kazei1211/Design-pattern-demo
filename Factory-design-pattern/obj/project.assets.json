@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\DS\\Design-pattern-demo\\Factory-design-pattern\\Factory-design-pattern.csproj",
-      "projectName": "Factory-design-pattern",
-      "projectPath": "D:\\Code\\DS\\Design-pattern-demo\\Factory-design-pattern\\Factory-design-pattern.csproj",
+      "projectUniqueName": "D:\\Code\\DS\\Design-pattern-demo\\Factory-design-pattern\\Factory Method.csproj",
+      "projectName": "Factory Method",
+      "projectPath": "D:\\Code\\DS\\Design-pattern-demo\\Factory-design-pattern\\Factory Method.csproj",
       "packagesPath": "C:\\Users\\tinho\\.nuget\\packages\\",
       "outputPath": "D:\\Code\\DS\\Design-pattern-demo\\Factory-design-pattern\\obj\\",
       "projectStyle": "PackageReference",
