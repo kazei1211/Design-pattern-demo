@@ -1,0 +1,14 @@
+D:\Code\Demos\Design-pattern-demo\Factory-design-pattern\bin\Debug\net8.0\Factory-design-pattern.exe
+D:\Code\Demos\Design-pattern-demo\Factory-design-pattern\bin\Debug\net8.0\Factory-design-pattern.deps.json
+D:\Code\Demos\Design-pattern-demo\Factory-design-pattern\bin\Debug\net8.0\Factory-design-pattern.runtimeconfig.json
+D:\Code\Demos\Design-pattern-demo\Factory-design-pattern\bin\Debug\net8.0\Factory-design-pattern.dll
+D:\Code\Demos\Design-pattern-demo\Factory-design-pattern\bin\Debug\net8.0\Factory-design-pattern.pdb
+D:\Code\Demos\Design-pattern-demo\Factory-design-pattern\obj\Debug\net8.0\Factory-design-pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Demos\Design-pattern-demo\Factory-design-pattern\obj\Debug\net8.0\Factory-design-pattern.AssemblyInfoInputs.cache
+D:\Code\Demos\Design-pattern-demo\Factory-design-pattern\obj\Debug\net8.0\Factory-design-pattern.AssemblyInfo.cs
+D:\Code\Demos\Design-pattern-demo\Factory-design-pattern\obj\Debug\net8.0\Factory-design-pattern.csproj.CoreCompileInputs.cache
+D:\Code\Demos\Design-pattern-demo\Factory-design-pattern\obj\Debug\net8.0\Factory-design-pattern.dll
+D:\Code\Demos\Design-pattern-demo\Factory-design-pattern\obj\Debug\net8.0\refint\Factory-design-pattern.dll
+D:\Code\Demos\Design-pattern-demo\Factory-design-pattern\obj\Debug\net8.0\Factory-design-pattern.pdb
+D:\Code\Demos\Design-pattern-demo\Factory-design-pattern\obj\Debug\net8.0\Factory-design-pattern.genruntimeconfig.cache
+D:\Code\Demos\Design-pattern-demo\Factory-design-pattern\obj\Debug\net8.0\ref\Factory-design-pattern.dll
