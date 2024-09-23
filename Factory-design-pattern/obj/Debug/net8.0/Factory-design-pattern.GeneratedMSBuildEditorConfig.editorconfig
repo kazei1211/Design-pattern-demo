@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Factory_design_pattern
-build_property.ProjectDir = D:\Code\Demos\Design-pattern-demo\Factory-design-pattern\
+build_property.ProjectDir = D:\Code\DS\Design-pattern-demo\Factory-design-pattern\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
