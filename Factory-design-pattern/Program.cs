@@ -5,6 +5,7 @@ class Program
     static void Main(string[] args)
     {
         int choice = -1;
+        Application editor;
         while (choice != 0)
         {
             //menu
@@ -13,6 +14,7 @@ class Program
             Console.WriteLine("1. Photo Editor");
             Console.WriteLine("2. Graphic Editor");
             Console.WriteLine("3. Vector Design Editor");
+            Console.WriteLine("0. Exit");
             Console.Write("Enter your choice: ");
             try
             {
@@ -32,21 +34,21 @@ class Program
                     Console.WriteLine("Exiting the program...");
                     break;
                 case 1:
-                    JpgEditor jpgEditor = new JpgEditor();
-                    jpgEditor.OpenDocument();
-                    jpgEditor.SaveDocument();
+                    editor = new JpgEditor();
+                    editor.OpenDocument();
+                    editor.SaveDocument();
                     Console.WriteLine();
                     break;
                 case 2:
-                    PngEditor pngEditor = new PngEditor();
-                    pngEditor.OpenDocument();
-                    pngEditor.SaveDocument();
+                    editor = new PngEditor();
+                    editor.OpenDocument();
+                    editor.SaveDocument();
                     Console.WriteLine();
                     break;
                 case 3:
-                    SvgEditor svgEditor = new SvgEditor();
-                    svgEditor.OpenDocument();
-                    svgEditor.SaveDocument();
+                    editor = new SvgEditor();
+                    editor.OpenDocument();
+                    editor.SaveDocument();
                     Console.WriteLine();
                     break;
                 default:
