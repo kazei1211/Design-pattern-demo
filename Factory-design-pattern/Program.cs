@@ -32,21 +32,21 @@ class Program
                     Console.WriteLine("Exiting the program...");
                     break;
                 case 1:
-                    JpgDocument jpg = new JpgDocument();
-                    jpg.Open();
-                    jpg.Save();
+                    JpgEditor jpgEditor = new JpgEditor();
+                    jpgEditor.OpenDocument();
+                    jpgEditor.SaveDocument();
                     Console.WriteLine();
                     break;
                 case 2:
-                    PngDocument png = new PngDocument();
-                    png.Open();
-                    png.Save();
+                    PngEditor pngEditor = new PngEditor();
+                    pngEditor.OpenDocument();
+                    pngEditor.SaveDocument();
                     Console.WriteLine();
                     break;
                 case 3:
-                    SvgDocument svg = new SvgDocument();
-                    svg.Open();
-                    svg.Save();
+                    SvgEditor svgEditor = new SvgEditor();
+                    svgEditor.OpenDocument();
+                    svgEditor.SaveDocument();
                     Console.WriteLine();
                     break;
                 default:

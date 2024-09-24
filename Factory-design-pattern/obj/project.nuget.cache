@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qWyOi5MHAe/jniCyHy+yHpkTfCF2ss/ScDRbnm9Vl9b611noROBz2cXg3dzOklaN7TbJ4Oe6W9nANSUS3SVFNQ==",
+  "dgSpecHash": "E4C5+lgs0yA=",
   "success": true,
-  "projectFilePath": "D:\\Code\\DS\\Design-pattern-demo\\Factory-design-pattern\\Factory Method.csproj",
+  "projectFilePath": "D:\\Code\\Demos\\Design-pattern-demo\\Factory-design-pattern\\Factory Method.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
