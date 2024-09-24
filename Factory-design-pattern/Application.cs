@@ -24,3 +24,4 @@ namespace Factory_design_pattern
         protected abstract Document CreateDocument();
     }
 }
+                                

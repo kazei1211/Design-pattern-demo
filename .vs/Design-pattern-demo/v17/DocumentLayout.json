@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\Code\\Demos\\Design-pattern-demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\demos\\design-pattern-demo\\factory-design-pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|solutionrelative:factory-design-pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\demos\\design-pattern-demo\\factory-design-pattern\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|solutionrelative:factory-design-pattern\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{99C66440-912C-447A-BB1C-FE748D57D5A7}|Abstract Factory\\Abstract Factory.csproj|d:\\code\\demos\\design-pattern-demo\\abstract factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99C66440-912C-447A-BB1C-FE748D57D5A7}|Abstract Factory\\Abstract Factory.csproj|solutionrelative:abstract factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\demos\\design-pattern-demo\\factory-design-pattern\\jpgeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|solutionrelative:factory-design-pattern\\jpgeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\demos\\design-pattern-demo\\factory-design-pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|solutionrelative:factory-design-pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\demos\\design-pattern-demo\\factory-design-pattern\\jpgdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|solutionrelative:factory-design-pattern\\jpgdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\demos\\design-pattern-demo\\factory-design-pattern\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|solutionrelative:factory-design-pattern\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\demos\\design-pattern-demo\\factory-design-pattern\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|solutionrelative:factory-design-pattern\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\demos\\design-pattern-demo\\factory-design-pattern\\jpgeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|solutionrelative:factory-design-pattern\\jpgeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\demos\\design-pattern-demo\\factory-design-pattern\\pngdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "JpgDocument.cs",
               "DocumentMoniker": "D:\\Code\\Demos\\Design-pattern-demo\\Factory-design-pattern\\JpgDocument.cs",
               "RelativeDocumentMoniker": "Factory-design-pattern\\JpgDocument.cs",
               "ToolTip": "D:\\Code\\Demos\\Design-pattern-demo\\Factory-design-pattern\\JpgDocument.cs",
               "RelativeToolTip": "Factory-design-pattern\\JpgDocument.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T00:09:02.236Z"
             },
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "JpgEditor.cs",
               "DocumentMoniker": "D:\\Code\\Demos\\Design-pattern-demo\\Factory-design-pattern\\JpgEditor.cs",
               "RelativeDocumentMoniker": "Factory-design-pattern\\JpgEditor.cs",
@@ -78,49 +78,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Document.cs",
               "DocumentMoniker": "D:\\Code\\Demos\\Design-pattern-demo\\Factory-design-pattern\\Document.cs",
               "RelativeDocumentMoniker": "Factory-design-pattern\\Document.cs",
               "ToolTip": "D:\\Code\\Demos\\Design-pattern-demo\\Factory-design-pattern\\Document.cs",
               "RelativeToolTip": "Factory-design-pattern\\Document.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T00:06:35.969Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Application.cs",
               "DocumentMoniker": "D:\\Code\\Demos\\Design-pattern-demo\\Factory-design-pattern\\Application.cs",
               "RelativeDocumentMoniker": "Factory-design-pattern\\Application.cs",
               "ToolTip": "D:\\Code\\Demos\\Design-pattern-demo\\Factory-design-pattern\\Application.cs",
               "RelativeToolTip": "Factory-design-pattern\\Application.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T00:06:33.608Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Demos\\Design-pattern-demo\\Abstract Factory\\Program.cs",
               "RelativeDocumentMoniker": "Abstract Factory\\Program.cs",
-              "ToolTip": "D:\\Code\\Demos\\Design-pattern-demo\\Abstract Factory\\Program.cs",
-              "RelativeToolTip": "Abstract Factory\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "ToolTip": "D:\\Code\\Demos\\Design-pattern-demo\\Abstract Factory\\Program.cs*",
+              "RelativeToolTip": "Abstract Factory\\Program.cs*",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T00:06:30.501Z"
+              "WhenOpened": "2024-09-24T00:06:30.501Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Demos\\Design-pattern-demo\\Factory-design-pattern\\Program.cs",
               "RelativeDocumentMoniker": "Factory-design-pattern\\Program.cs",
               "ToolTip": "D:\\Code\\Demos\\Design-pattern-demo\\Factory-design-pattern\\Program.cs",
               "RelativeToolTip": "Factory-design-pattern\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBIAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T12:38:23.55Z",
               "EditorCaption": ""
