@@ -1,33 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Code\\Demos\\Design-pattern-demo\\",
+  "WorkspaceRootPath": "D:\\Code\\DS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99C66440-912C-447A-BB1C-FE748D57D5A7}|Abstract Factory\\Abstract Factory.csproj|d:\\code\\demos\\design-pattern-demo\\abstract factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|d:\\code\\ds\\builder\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|solutionrelative:builder\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|d:\\code\\ds\\builder\\fluentcomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|solutionrelative:builder\\fluentcomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|d:\\code\\ds\\builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|solutionrelative:builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|d:\\code\\ds\\builder\\officecomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|solutionrelative:builder\\officecomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|d:\\code\\ds\\builder\\icomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|solutionrelative:builder\\icomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|d:\\code\\ds\\builder\\computerdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|solutionrelative:builder\\computerdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|d:\\code\\ds\\builder\\ultrabookbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|solutionrelative:builder\\ultrabookbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|d:\\code\\ds\\builder\\gamingcomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|solutionrelative:builder\\gamingcomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|d:\\code\\ds\\adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|solutionrelative:adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\ds\\factory-design-pattern\\factory method.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|solutionrelative:factory-design-pattern\\factory method.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C66440-912C-447A-BB1C-FE748D57D5A7}|Abstract Factory\\Abstract Factory.csproj|d:\\code\\ds\\abstract factory\\abstract factory.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{99C66440-912C-447A-BB1C-FE748D57D5A7}|Abstract Factory\\Abstract Factory.csproj|solutionrelative:abstract factory\\abstract factory.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C66440-912C-447A-BB1C-FE748D57D5A7}|Abstract Factory\\Abstract Factory.csproj|d:\\code\\ds\\abstract factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99C66440-912C-447A-BB1C-FE748D57D5A7}|Abstract Factory\\Abstract Factory.csproj|solutionrelative:abstract factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\demos\\design-pattern-demo\\factory-design-pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\ds\\factory-design-pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|solutionrelative:factory-design-pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\demos\\design-pattern-demo\\factory-design-pattern\\jpgdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\ds\\factory-design-pattern\\jpgdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|solutionrelative:factory-design-pattern\\jpgdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\demos\\design-pattern-demo\\factory-design-pattern\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\ds\\factory-design-pattern\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|solutionrelative:factory-design-pattern\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\demos\\design-pattern-demo\\factory-design-pattern\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\ds\\factory-design-pattern\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|solutionrelative:factory-design-pattern\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\demos\\design-pattern-demo\\factory-design-pattern\\jpgeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\ds\\factory-design-pattern\\jpgeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|solutionrelative:factory-design-pattern\\jpgeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\demos\\design-pattern-demo\\factory-design-pattern\\pngdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\ds\\factory-design-pattern\\pngdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|solutionrelative:factory-design-pattern\\pngdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,15 +82,156 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FluentComputerBuilder.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Builder\\FluentComputerBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\FluentComputerBuilder.cs",
+              "ToolTip": "D:\\Code\\DS\\Builder\\FluentComputerBuilder.cs",
+              "RelativeToolTip": "Builder\\FluentComputerBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:29:36.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OfficeComputerBuilder.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Builder\\OfficeComputerBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\OfficeComputerBuilder.cs",
+              "ToolTip": "D:\\Code\\DS\\Builder\\OfficeComputerBuilder.cs",
+              "RelativeToolTip": "Builder\\OfficeComputerBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:11:07.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Builder\\Program.cs",
+              "RelativeDocumentMoniker": "Builder\\Program.cs",
+              "ToolTip": "D:\\Code\\DS\\Builder\\Program.cs",
+              "RelativeToolTip": "Builder\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:45:37.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IComputerBuilder.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Builder\\IComputerBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\IComputerBuilder.cs",
+              "ToolTip": "D:\\Code\\DS\\Builder\\IComputerBuilder.cs",
+              "RelativeToolTip": "Builder\\IComputerBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:46:19.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UltrabookBuilder.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Builder\\UltrabookBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\UltrabookBuilder.cs",
+              "ToolTip": "D:\\Code\\DS\\Builder\\UltrabookBuilder.cs",
+              "RelativeToolTip": "Builder\\UltrabookBuilder.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA/wCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:11:49.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ComputerDirector.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Builder\\ComputerDirector.cs",
+              "RelativeDocumentMoniker": "Builder\\ComputerDirector.cs",
+              "ToolTip": "D:\\Code\\DS\\Builder\\ComputerDirector.cs",
+              "RelativeToolTip": "Builder\\ComputerDirector.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:12:27.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Builder\\Computer.cs",
+              "RelativeDocumentMoniker": "Builder\\Computer.cs",
+              "ToolTip": "D:\\Code\\DS\\Builder\\Computer.cs",
+              "RelativeToolTip": "Builder\\Computer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:45:57.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GamingComputerBuilder.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Builder\\GamingComputerBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\GamingComputerBuilder.cs",
+              "ToolTip": "D:\\Code\\DS\\Builder\\GamingComputerBuilder.cs",
+              "RelativeToolTip": "Builder\\GamingComputerBuilder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:10:52.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Adapter\\Program.cs",
+              "RelativeDocumentMoniker": "Adapter\\Program.cs",
+              "ToolTip": "D:\\Code\\DS\\Adapter\\Program.cs",
+              "RelativeToolTip": "Adapter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:14:13.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Factory Method",
+              "DocumentMoniker": "D:\\Code\\DS\\Factory-design-pattern\\Factory Method.csproj",
+              "RelativeDocumentMoniker": "Factory-design-pattern\\Factory Method.csproj",
+              "ToolTip": "D:\\Code\\DS\\Factory-design-pattern\\Factory Method.csproj",
+              "RelativeToolTip": "Factory-design-pattern\\Factory Method.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-27T08:45:08.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Abstract Factory",
+              "DocumentMoniker": "D:\\Code\\DS\\Abstract Factory\\Abstract Factory.csproj",
+              "RelativeDocumentMoniker": "Abstract Factory\\Abstract Factory.csproj",
+              "ToolTip": "D:\\Code\\DS\\Abstract Factory\\Abstract Factory.csproj",
+              "RelativeToolTip": "Abstract Factory\\Abstract Factory.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-27T08:45:02.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "JpgDocument.cs",
-              "DocumentMoniker": "D:\\Code\\Demos\\Design-pattern-demo\\Factory-design-pattern\\JpgDocument.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Factory-design-pattern\\JpgDocument.cs",
               "RelativeDocumentMoniker": "Factory-design-pattern\\JpgDocument.cs",
-              "ToolTip": "D:\\Code\\Demos\\Design-pattern-demo\\Factory-design-pattern\\JpgDocument.cs",
+              "ToolTip": "D:\\Code\\DS\\Factory-design-pattern\\JpgDocument.cs",
               "RelativeToolTip": "Factory-design-pattern\\JpgDocument.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -54,11 +239,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "PngDocument.cs",
-              "DocumentMoniker": "D:\\Code\\Demos\\Design-pattern-demo\\Factory-design-pattern\\PngDocument.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Factory-design-pattern\\PngDocument.cs",
               "RelativeDocumentMoniker": "Factory-design-pattern\\PngDocument.cs",
-              "ToolTip": "D:\\Code\\Demos\\Design-pattern-demo\\Factory-design-pattern\\PngDocument.cs",
+              "ToolTip": "D:\\Code\\DS\\Factory-design-pattern\\PngDocument.cs",
               "RelativeToolTip": "Factory-design-pattern\\PngDocument.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -66,11 +251,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "JpgEditor.cs",
-              "DocumentMoniker": "D:\\Code\\Demos\\Design-pattern-demo\\Factory-design-pattern\\JpgEditor.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Factory-design-pattern\\JpgEditor.cs",
               "RelativeDocumentMoniker": "Factory-design-pattern\\JpgEditor.cs",
-              "ToolTip": "D:\\Code\\Demos\\Design-pattern-demo\\Factory-design-pattern\\JpgEditor.cs",
+              "ToolTip": "D:\\Code\\DS\\Factory-design-pattern\\JpgEditor.cs",
               "RelativeToolTip": "Factory-design-pattern\\JpgEditor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -78,11 +263,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "Document.cs",
-              "DocumentMoniker": "D:\\Code\\Demos\\Design-pattern-demo\\Factory-design-pattern\\Document.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Factory-design-pattern\\Document.cs",
               "RelativeDocumentMoniker": "Factory-design-pattern\\Document.cs",
-              "ToolTip": "D:\\Code\\Demos\\Design-pattern-demo\\Factory-design-pattern\\Document.cs",
+              "ToolTip": "D:\\Code\\DS\\Factory-design-pattern\\Document.cs",
               "RelativeToolTip": "Factory-design-pattern\\Document.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -90,11 +275,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "Application.cs",
-              "DocumentMoniker": "D:\\Code\\Demos\\Design-pattern-demo\\Factory-design-pattern\\Application.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Factory-design-pattern\\Application.cs",
               "RelativeDocumentMoniker": "Factory-design-pattern\\Application.cs",
-              "ToolTip": "D:\\Code\\Demos\\Design-pattern-demo\\Factory-design-pattern\\Application.cs",
+              "ToolTip": "D:\\Code\\DS\\Factory-design-pattern\\Application.cs",
               "RelativeToolTip": "Factory-design-pattern\\Application.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -102,29 +287,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\Demos\\Design-pattern-demo\\Abstract Factory\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Abstract Factory\\Program.cs",
               "RelativeDocumentMoniker": "Abstract Factory\\Program.cs",
-              "ToolTip": "D:\\Code\\Demos\\Design-pattern-demo\\Abstract Factory\\Program.cs*",
-              "RelativeToolTip": "Abstract Factory\\Program.cs*",
-              "ViewState": "AQIAACYAAAAAAAAAAAAAADkAAAANAAAA",
+              "ToolTip": "D:\\Code\\DS\\Abstract Factory\\Program.cs",
+              "RelativeToolTip": "Abstract Factory\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwDoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T00:06:30.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\Demos\\Design-pattern-demo\\Factory-design-pattern\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Factory-design-pattern\\Program.cs",
               "RelativeDocumentMoniker": "Factory-design-pattern\\Program.cs",
-              "ToolTip": "D:\\Code\\Demos\\Design-pattern-demo\\Factory-design-pattern\\Program.cs",
+              "ToolTip": "D:\\Code\\DS\\Factory-design-pattern\\Program.cs",
               "RelativeToolTip": "Factory-design-pattern\\Program.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAgwBIAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T12:38:23.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T12:38:23.55Z"
             }
           ]
         }
