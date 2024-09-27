@@ -7,6 +7,7 @@ Console.WriteLine("2. Fluent Builder");
 Console.WriteLine("3. Director-less Builder");
 Console.WriteLine("4. Immutable Builder");
 Console.Write("Enter your type: ");
+type = Convert.ToInt32(Console.ReadLine());
 
 switch (type)
 {

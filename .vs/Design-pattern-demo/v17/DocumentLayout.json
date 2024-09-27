@@ -3,16 +3,64 @@
   "WorkspaceRootPath": "D:\\Code\\DS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|d:\\code\\ds\\adapter\\imediaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|solutionrelative:adapter\\imediaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|d:\\code\\ds\\adapter\\iaudioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|solutionrelative:adapter\\iaudioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|d:\\code\\ds\\adapter\\flacplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|solutionrelative:adapter\\flacplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|d:\\code\\ds\\adapter\\mediaadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|solutionrelative:adapter\\mediaadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|d:\\code\\ds\\adapter\\mp4player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|solutionrelative:adapter\\mp4player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|d:\\code\\ds\\adapter\\flactomp3adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|solutionrelative:adapter\\flactomp3adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|d:\\code\\ds\\adapter\\vlcplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|solutionrelative:adapter\\vlcplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|d:\\code\\ds\\adapter\\iadvancedmediaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|solutionrelative:adapter\\iadvancedmediaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|d:\\code\\ds\\adapter\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|solutionrelative:adapter\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|d:\\code\\ds\\adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|solutionrelative:adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|d:\\code\\ds\\builder\\carbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|solutionrelative:builder\\carbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|d:\\code\\ds\\builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|solutionrelative:builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|d:\\code\\ds\\builder\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|solutionrelative:builder\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|d:\\code\\ds\\builder\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|solutionrelative:builder\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|d:\\code\\ds\\builder\\fluentcomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|solutionrelative:builder\\fluentcomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|d:\\code\\ds\\builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|solutionrelative:builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|d:\\code\\ds\\builder\\officecomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|d:\\code\\ds\\builder\\gamingcomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|solutionrelative:builder\\gamingcomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|d:\\code\\ds\\adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|solutionrelative:adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\ds\\factory-design-pattern\\factory method.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -82,11 +126,166 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FlacToMp3Adapter.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Adapter\\FlacToMp3Adapter.cs",
+              "RelativeDocumentMoniker": "Adapter\\FlacToMp3Adapter.cs",
+              "ToolTip": "D:\\Code\\DS\\Adapter\\FlacToMp3Adapter.cs",
+              "RelativeToolTip": "Adapter\\FlacToMp3Adapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:03:14.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlacPlayer.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Adapter\\FlacPlayer.cs",
+              "RelativeDocumentMoniker": "Adapter\\FlacPlayer.cs",
+              "ToolTip": "D:\\Code\\DS\\Adapter\\FlacPlayer.cs",
+              "RelativeToolTip": "Adapter\\FlacPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:02:41.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IAudioService.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Adapter\\IAudioService.cs",
+              "RelativeDocumentMoniker": "Adapter\\IAudioService.cs",
+              "ToolTip": "D:\\Code\\DS\\Adapter\\IAudioService.cs",
+              "RelativeToolTip": "Adapter\\IAudioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:02:18.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AudioPlayer.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Adapter\\AudioPlayer.cs",
+              "RelativeDocumentMoniker": "Adapter\\AudioPlayer.cs",
+              "ToolTip": "D:\\Code\\DS\\Adapter\\AudioPlayer.cs",
+              "RelativeToolTip": "Adapter\\AudioPlayer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:28:02.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MediaAdapter.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Adapter\\MediaAdapter.cs",
+              "RelativeDocumentMoniker": "Adapter\\MediaAdapter.cs",
+              "ToolTip": "D:\\Code\\DS\\Adapter\\MediaAdapter.cs",
+              "RelativeToolTip": "Adapter\\MediaAdapter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:27:43.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mp4Player.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Adapter\\Mp4Player.cs",
+              "RelativeDocumentMoniker": "Adapter\\Mp4Player.cs",
+              "ToolTip": "D:\\Code\\DS\\Adapter\\Mp4Player.cs",
+              "RelativeToolTip": "Adapter\\Mp4Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:26:58.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VlcPlayer.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Adapter\\VlcPlayer.cs",
+              "RelativeDocumentMoniker": "Adapter\\VlcPlayer.cs",
+              "ToolTip": "D:\\Code\\DS\\Adapter\\VlcPlayer.cs",
+              "RelativeToolTip": "Adapter\\VlcPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:26:52.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IMediaPlayer.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Adapter\\IMediaPlayer.cs",
+              "RelativeDocumentMoniker": "Adapter\\IMediaPlayer.cs",
+              "ToolTip": "D:\\Code\\DS\\Adapter\\IMediaPlayer.cs",
+              "RelativeToolTip": "Adapter\\IMediaPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:08:41.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAdvancedMediaPlayer.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Adapter\\IAdvancedMediaPlayer.cs",
+              "RelativeDocumentMoniker": "Adapter\\IAdvancedMediaPlayer.cs",
+              "ToolTip": "D:\\Code\\DS\\Adapter\\IAdvancedMediaPlayer.cs",
+              "RelativeToolTip": "Adapter\\IAdvancedMediaPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:26:43.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarBuilder.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Builder\\CarBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\CarBuilder.cs",
+              "ToolTip": "D:\\Code\\DS\\Builder\\CarBuilder.cs",
+              "RelativeToolTip": "Builder\\CarBuilder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:05:40.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Adapter\\Program.cs",
+              "RelativeDocumentMoniker": "Adapter\\Program.cs",
+              "ToolTip": "D:\\Code\\DS\\Adapter\\Program.cs",
+              "RelativeToolTip": "Adapter\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:14:13.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Builder\\Car.cs",
+              "RelativeDocumentMoniker": "Builder\\Car.cs",
+              "ToolTip": "D:\\Code\\DS\\Builder\\Car.cs",
+              "RelativeToolTip": "Builder\\Car.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:05:29.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "FluentComputerBuilder.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Builder\\FluentComputerBuilder.cs",
               "RelativeDocumentMoniker": "Builder\\FluentComputerBuilder.cs",
@@ -94,12 +293,11 @@
               "RelativeToolTip": "Builder\\FluentComputerBuilder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T10:29:36.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T10:29:36.089Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "OfficeComputerBuilder.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Builder\\OfficeComputerBuilder.cs",
               "RelativeDocumentMoniker": "Builder\\OfficeComputerBuilder.cs",
@@ -107,25 +305,23 @@
               "RelativeToolTip": "Builder\\OfficeComputerBuilder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T10:11:07.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T10:11:07.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Builder\\Program.cs",
               "RelativeDocumentMoniker": "Builder\\Program.cs",
               "ToolTip": "D:\\Code\\DS\\Builder\\Program.cs",
               "RelativeToolTip": "Builder\\Program.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAEIAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T08:45:37.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T08:45:37.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "IComputerBuilder.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Builder\\IComputerBuilder.cs",
               "RelativeDocumentMoniker": "Builder\\IComputerBuilder.cs",
@@ -133,12 +329,11 @@
               "RelativeToolTip": "Builder\\IComputerBuilder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T08:46:19.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T08:46:19.458Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "UltrabookBuilder.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Builder\\UltrabookBuilder.cs",
               "RelativeDocumentMoniker": "Builder\\UltrabookBuilder.cs",
@@ -146,12 +341,11 @@
               "RelativeToolTip": "Builder\\UltrabookBuilder.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAA/wCsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T10:11:49.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T10:11:49.448Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "ComputerDirector.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Builder\\ComputerDirector.cs",
               "RelativeDocumentMoniker": "Builder\\ComputerDirector.cs",
@@ -159,12 +353,11 @@
               "RelativeToolTip": "Builder\\ComputerDirector.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAADwvxcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T10:12:27.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T10:12:27.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "Computer.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Builder\\Computer.cs",
               "RelativeDocumentMoniker": "Builder\\Computer.cs",
@@ -172,12 +365,11 @@
               "RelativeToolTip": "Builder\\Computer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T08:45:57.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T08:45:57.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "GamingComputerBuilder.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Builder\\GamingComputerBuilder.cs",
               "RelativeDocumentMoniker": "Builder\\GamingComputerBuilder.cs",
@@ -185,49 +377,33 @@
               "RelativeToolTip": "Builder\\GamingComputerBuilder.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAkwCsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T10:10:52.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T10:10:52.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Adapter\\Program.cs",
-              "RelativeDocumentMoniker": "Adapter\\Program.cs",
-              "ToolTip": "D:\\Code\\DS\\Adapter\\Program.cs",
-              "RelativeToolTip": "Adapter\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T10:14:13.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "Factory Method",
               "DocumentMoniker": "D:\\Code\\DS\\Factory-design-pattern\\Factory Method.csproj",
               "RelativeDocumentMoniker": "Factory-design-pattern\\Factory Method.csproj",
               "ToolTip": "D:\\Code\\DS\\Factory-design-pattern\\Factory Method.csproj",
               "RelativeToolTip": "Factory-design-pattern\\Factory Method.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-27T08:45:08.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T08:45:08.116Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "Abstract Factory",
               "DocumentMoniker": "D:\\Code\\DS\\Abstract Factory\\Abstract Factory.csproj",
               "RelativeDocumentMoniker": "Abstract Factory\\Abstract Factory.csproj",
               "ToolTip": "D:\\Code\\DS\\Abstract Factory\\Abstract Factory.csproj",
               "RelativeToolTip": "Abstract Factory\\Abstract Factory.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-27T08:45:02.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T08:45:02.259Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 24,
               "Title": "JpgDocument.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Factory-design-pattern\\JpgDocument.cs",
               "RelativeDocumentMoniker": "Factory-design-pattern\\JpgDocument.cs",
@@ -239,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 28,
               "Title": "PngDocument.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Factory-design-pattern\\PngDocument.cs",
               "RelativeDocumentMoniker": "Factory-design-pattern\\PngDocument.cs",
@@ -251,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 27,
               "Title": "JpgEditor.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Factory-design-pattern\\JpgEditor.cs",
               "RelativeDocumentMoniker": "Factory-design-pattern\\JpgEditor.cs",
@@ -263,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 26,
               "Title": "Document.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Factory-design-pattern\\Document.cs",
               "RelativeDocumentMoniker": "Factory-design-pattern\\Document.cs",
@@ -275,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 25,
               "Title": "Application.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Factory-design-pattern\\Application.cs",
               "RelativeDocumentMoniker": "Factory-design-pattern\\Application.cs",
@@ -287,7 +463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Abstract Factory\\Program.cs",
               "RelativeDocumentMoniker": "Abstract Factory\\Program.cs",
@@ -295,12 +471,11 @@
               "RelativeToolTip": "Abstract Factory\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwDoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T00:06:30.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T00:06:30.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Factory-design-pattern\\Program.cs",
               "RelativeDocumentMoniker": "Factory-design-pattern\\Program.cs",
