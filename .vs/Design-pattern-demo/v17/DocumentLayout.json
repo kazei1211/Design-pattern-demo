@@ -3,164 +3,52 @@
   "WorkspaceRootPath": "D:\\Code\\DS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|d:\\code\\ds\\composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|solutionrelative:composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|d:\\code\\ds\\composite\\implementations\\interfacecomposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|solutionrelative:composite\\implementations\\interfacecomposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|d:\\code\\ds\\composite\\interfaces\\icomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|solutionrelative:composite\\interfaces\\icomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|d:\\code\\ds\\composite\\implementations\\interfaceleaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|solutionrelative:composite\\implementations\\interfaceleaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|d:\\code\\ds\\composite\\implementations\\genericleaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|solutionrelative:composite\\implementations\\genericleaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|d:\\code\\ds\\composite\\implementations\\genericcomposite .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|solutionrelative:composite\\implementations\\genericcomposite .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|d:\\code\\ds\\composite\\implementations\\abstractcomposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|solutionrelative:composite\\implementations\\abstractcomposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|d:\\code\\ds\\composite\\implementations\\abstractleaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|solutionrelative:composite\\implementations\\abstractleaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|d:\\code\\ds\\composite\\abstracts\\abstractcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|solutionrelative:composite\\abstracts\\abstractcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|d:\\code\\ds\\composite\\interfaces\\igenericcomposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|solutionrelative:composite\\interfaces\\igenericcomposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|d:\\code\\ds\\composite\\interfaces\\igenericcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|solutionrelative:composite\\interfaces\\igenericcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F4394515-E89C-426E-98F9-A9AFF5450AE4}|Prototype\\Prototype.csproj|d:\\code\\ds\\prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4394515-E89C-426E-98F9-A9AFF5450AE4}|Prototype\\Prototype.csproj|solutionrelative:prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4394515-E89C-426E-98F9-A9AFF5450AE4}|Prototype\\Prototype.csproj|d:\\code\\ds\\prototype\\serializationprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4394515-E89C-426E-98F9-A9AFF5450AE4}|Prototype\\Prototype.csproj|solutionrelative:prototype\\serializationprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4394515-E89C-426E-98F9-A9AFF5450AE4}|Prototype\\Prototype.csproj|d:\\code\\ds\\prototype\\iprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4394515-E89C-426E-98F9-A9AFF5450AE4}|Prototype\\Prototype.csproj|solutionrelative:prototype\\iprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4394515-E89C-426E-98F9-A9AFF5450AE4}|Prototype\\Prototype.csproj|d:\\code\\ds\\prototype\\genericprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4394515-E89C-426E-98F9-A9AFF5450AE4}|Prototype\\Prototype.csproj|solutionrelative:prototype\\genericprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4394515-E89C-426E-98F9-A9AFF5450AE4}|Prototype\\Prototype.csproj|d:\\code\\ds\\prototype\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4394515-E89C-426E-98F9-A9AFF5450AE4}|Prototype\\Prototype.csproj|solutionrelative:prototype\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4394515-E89C-426E-98F9-A9AFF5450AE4}|Prototype\\Prototype.csproj|d:\\code\\ds\\prototype\\prototyperegistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4394515-E89C-426E-98F9-A9AFF5450AE4}|Prototype\\Prototype.csproj|solutionrelative:prototype\\prototyperegistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4394515-E89C-426E-98F9-A9AFF5450AE4}|Prototype\\Prototype.csproj|d:\\code\\ds\\prototype\\copyconstructorprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4394515-E89C-426E-98F9-A9AFF5450AE4}|Prototype\\Prototype.csproj|solutionrelative:prototype\\copyconstructorprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4394515-E89C-426E-98F9-A9AFF5450AE4}|Prototype\\Prototype.csproj|d:\\code\\ds\\prototype\\deepcopyprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4394515-E89C-426E-98F9-A9AFF5450AE4}|Prototype\\Prototype.csproj|solutionrelative:prototype\\deepcopyprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4394515-E89C-426E-98F9-A9AFF5450AE4}|Prototype\\Prototype.csproj|d:\\code\\ds\\prototype\\shallowcopyprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4394515-E89C-426E-98F9-A9AFF5450AE4}|Prototype\\Prototype.csproj|solutionrelative:prototype\\shallowcopyprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4394515-E89C-426E-98F9-A9AFF5450AE4}|Prototype\\Prototype.csproj|d:\\code\\ds\\prototype\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4394515-E89C-426E-98F9-A9AFF5450AE4}|Prototype\\Prototype.csproj|solutionrelative:prototype\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|d:\\code\\ds\\adapter\\flactomp3adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|solutionrelative:adapter\\flactomp3adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|d:\\code\\ds\\adapter\\flacplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|solutionrelative:adapter\\flacplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|d:\\code\\ds\\adapter\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|solutionrelative:adapter\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|d:\\code\\ds\\adapter\\audioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|solutionrelative:adapter\\audioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|d:\\code\\ds\\adapter\\mediaadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|solutionrelative:adapter\\mediaadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|d:\\code\\ds\\adapter\\mp4player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|solutionrelative:adapter\\mp4player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|d:\\code\\ds\\adapter\\imediaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|solutionrelative:adapter\\imediaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|d:\\code\\ds\\adapter\\iadvancedmediaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|solutionrelative:adapter\\iadvancedmediaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|d:\\code\\ds\\adapter\\iaudioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|solutionrelative:adapter\\iaudioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|d:\\code\\ds\\adapter\\vlcplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|solutionrelative:adapter\\vlcplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|d:\\code\\ds\\adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7000C6D2-4B0D-4C47-9822-5E8D6D50E113}|Adapter\\Adapter.csproj|solutionrelative:adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|d:\\code\\ds\\builder\\carbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|solutionrelative:builder\\carbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|d:\\code\\ds\\builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|solutionrelative:builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|d:\\code\\ds\\builder\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|solutionrelative:builder\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|d:\\code\\ds\\builder\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|solutionrelative:builder\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|d:\\code\\ds\\builder\\fluentcomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|solutionrelative:builder\\fluentcomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|d:\\code\\ds\\builder\\officecomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|solutionrelative:builder\\officecomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|d:\\code\\ds\\builder\\icomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|solutionrelative:builder\\icomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|d:\\code\\ds\\builder\\computerdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|solutionrelative:builder\\computerdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|d:\\code\\ds\\builder\\ultrabookbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|solutionrelative:builder\\ultrabookbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|d:\\code\\ds\\builder\\gamingcomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CA877AA-9317-4315-A961-D03C35851C6B}|Builder\\Builder.csproj|solutionrelative:builder\\gamingcomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\ds\\factory-design-pattern\\factory method.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|solutionrelative:factory-design-pattern\\factory method.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99C66440-912C-447A-BB1C-FE748D57D5A7}|Abstract Factory\\Abstract Factory.csproj|d:\\code\\ds\\abstract factory\\abstract factory.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{99C66440-912C-447A-BB1C-FE748D57D5A7}|Abstract Factory\\Abstract Factory.csproj|solutionrelative:abstract factory\\abstract factory.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99C66440-912C-447A-BB1C-FE748D57D5A7}|Abstract Factory\\Abstract Factory.csproj|d:\\code\\ds\\abstract factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99C66440-912C-447A-BB1C-FE748D57D5A7}|Abstract Factory\\Abstract Factory.csproj|solutionrelative:abstract factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\ds\\factory-design-pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|solutionrelative:factory-design-pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\ds\\factory-design-pattern\\jpgdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|solutionrelative:factory-design-pattern\\jpgdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\ds\\factory-design-pattern\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|solutionrelative:factory-design-pattern\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\ds\\factory-design-pattern\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|solutionrelative:factory-design-pattern\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\ds\\factory-design-pattern\\jpgeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|solutionrelative:factory-design-pattern\\jpgeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|d:\\code\\ds\\factory-design-pattern\\pngdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2C6D54D-37EF-462A-9B81-6AE2D7B74CCB}|Factory-design-pattern\\Factory Method.csproj|solutionrelative:factory-design-pattern\\pngdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -294,492 +182,159 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AudioPlayer.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Prototype\\AudioPlayer.cs",
-              "RelativeDocumentMoniker": "Prototype\\AudioPlayer.cs",
-              "ToolTip": "D:\\Code\\DS\\Prototype\\AudioPlayer.cs",
-              "RelativeToolTip": "Prototype\\AudioPlayer.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAUwB0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T19:16:15.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GenericPrototype.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Prototype\\GenericPrototype.cs",
-              "RelativeDocumentMoniker": "Prototype\\GenericPrototype.cs",
-              "ToolTip": "D:\\Code\\DS\\Prototype\\GenericPrototype.cs*",
-              "RelativeToolTip": "Prototype\\GenericPrototype.cs*",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAqwDAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T19:15:54.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "PrototypeRegistry.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Prototype\\PrototypeRegistry.cs",
-              "RelativeDocumentMoniker": "Prototype\\PrototypeRegistry.cs",
-              "ToolTip": "D:\\Code\\DS\\Prototype\\PrototypeRegistry.cs",
-              "RelativeToolTip": "Prototype\\PrototypeRegistry.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAiwB8AAAApAAAAAAAAAA==",
+              "Title": "GenericComposite .cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Composite\\Implementations\\GenericComposite .cs",
+              "RelativeDocumentMoniker": "Composite\\Implementations\\GenericComposite .cs",
+              "ToolTip": "D:\\Code\\DS\\Composite\\Implementations\\GenericComposite .cs",
+              "RelativeToolTip": "Composite\\Implementations\\GenericComposite .cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T19:15:00.927Z",
+              "WhenOpened": "2024-10-02T19:45:00.739Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SerializationPrototype.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Prototype\\SerializationPrototype.cs",
-              "RelativeDocumentMoniker": "Prototype\\SerializationPrototype.cs",
-              "ToolTip": "D:\\Code\\DS\\Prototype\\SerializationPrototype.cs",
-              "RelativeToolTip": "Prototype\\SerializationPrototype.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwCAAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "GenericLeaf.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Composite\\Implementations\\GenericLeaf.cs",
+              "RelativeDocumentMoniker": "Composite\\Implementations\\GenericLeaf.cs",
+              "ToolTip": "D:\\Code\\DS\\Composite\\Implementations\\GenericLeaf.cs",
+              "RelativeToolTip": "Composite\\Implementations\\GenericLeaf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T19:13:59.1Z",
+              "WhenOpened": "2024-10-02T19:44:49.787Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CopyConstructorPrototype.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Prototype\\CopyConstructorPrototype.cs",
-              "RelativeDocumentMoniker": "Prototype\\CopyConstructorPrototype.cs",
-              "ToolTip": "D:\\Code\\DS\\Prototype\\CopyConstructorPrototype.cs",
-              "RelativeToolTip": "Prototype\\CopyConstructorPrototype.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAUwCQAAAAFAAAAAAAAAA==",
+              "Title": "AbstractComposite.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Composite\\Implementations\\AbstractComposite.cs",
+              "RelativeDocumentMoniker": "Composite\\Implementations\\AbstractComposite.cs",
+              "ToolTip": "D:\\Code\\DS\\Composite\\Implementations\\AbstractComposite.cs",
+              "RelativeToolTip": "Composite\\Implementations\\AbstractComposite.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T19:13:46.318Z",
+              "WhenOpened": "2024-10-02T19:44:39.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InterfaceComposite.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Composite\\Implementations\\InterfaceComposite.cs",
+              "RelativeDocumentMoniker": "Composite\\Implementations\\InterfaceComposite.cs",
+              "ToolTip": "D:\\Code\\DS\\Composite\\Implementations\\InterfaceComposite.cs",
+              "RelativeToolTip": "Composite\\Implementations\\InterfaceComposite.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:42:49.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InterfaceLeaf.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Composite\\Implementations\\InterfaceLeaf.cs",
+              "RelativeDocumentMoniker": "Composite\\Implementations\\InterfaceLeaf.cs",
+              "ToolTip": "D:\\Code\\DS\\Composite\\Implementations\\InterfaceLeaf.cs",
+              "RelativeToolTip": "Composite\\Implementations\\InterfaceLeaf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:42:37.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Prototype\\Program.cs",
-              "RelativeDocumentMoniker": "Prototype\\Program.cs",
-              "ToolTip": "D:\\Code\\DS\\Prototype\\Program.cs",
-              "RelativeToolTip": "Prototype\\Program.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Code\\DS\\Composite\\Program.cs",
+              "RelativeDocumentMoniker": "Composite\\Program.cs",
+              "ToolTip": "D:\\Code\\DS\\Composite\\Program.cs",
+              "RelativeToolTip": "Composite\\Program.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwDsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T19:10:33.762Z",
+              "WhenOpened": "2024-10-02T19:37:51.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IPrototype.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Prototype\\IPrototype.cs",
-              "RelativeDocumentMoniker": "Prototype\\IPrototype.cs",
-              "ToolTip": "D:\\Code\\DS\\Prototype\\IPrototype.cs",
-              "RelativeToolTip": "Prototype\\IPrototype.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "IComponent.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Composite\\Interfaces\\IComponent.cs",
+              "RelativeDocumentMoniker": "Composite\\Interfaces\\IComponent.cs",
+              "ToolTip": "D:\\Code\\DS\\Composite\\Interfaces\\IComponent.cs",
+              "RelativeToolTip": "Composite\\Interfaces\\IComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T19:10:43.795Z",
+              "WhenOpened": "2024-10-02T19:41:19.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "DeepCopyPrototype.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Prototype\\DeepCopyPrototype.cs",
-              "RelativeDocumentMoniker": "Prototype\\DeepCopyPrototype.cs",
-              "ToolTip": "D:\\Code\\DS\\Prototype\\DeepCopyPrototype.cs",
-              "RelativeToolTip": "Prototype\\DeepCopyPrototype.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBwAAAAFAAAAAAAAAA==",
+              "Title": "AbstractLeaf.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Composite\\Implementations\\AbstractLeaf.cs",
+              "RelativeDocumentMoniker": "Composite\\Implementations\\AbstractLeaf.cs",
+              "ToolTip": "D:\\Code\\DS\\Composite\\Implementations\\AbstractLeaf.cs",
+              "RelativeToolTip": "Composite\\Implementations\\AbstractLeaf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T19:11:23.55Z",
+              "WhenOpened": "2024-10-02T19:44:27.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ShallowCopyPrototype.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Prototype\\ShallowCopyPrototype.cs",
-              "RelativeDocumentMoniker": "Prototype\\ShallowCopyPrototype.cs",
-              "ToolTip": "D:\\Code\\DS\\Prototype\\ShallowCopyPrototype.cs",
-              "RelativeToolTip": "Prototype\\ShallowCopyPrototype.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBwAAAAFAAAAAAAAAA==",
+              "Title": "AbstractComponent.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Composite\\Abstracts\\AbstractComponent.cs",
+              "RelativeDocumentMoniker": "Composite\\Abstracts\\AbstractComponent.cs",
+              "ToolTip": "D:\\Code\\DS\\Composite\\Abstracts\\AbstractComponent.cs",
+              "RelativeToolTip": "Composite\\Abstracts\\AbstractComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T19:11:10.801Z",
+              "WhenOpened": "2024-10-02T19:42:26.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Address.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Prototype\\Address.cs",
-              "RelativeDocumentMoniker": "Prototype\\Address.cs",
-              "ToolTip": "D:\\Code\\DS\\Prototype\\Address.cs",
-              "RelativeToolTip": "Prototype\\Address.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Title": "IGenericComposite.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Composite\\Interfaces\\IGenericComposite.cs",
+              "RelativeDocumentMoniker": "Composite\\Interfaces\\IGenericComposite.cs",
+              "ToolTip": "D:\\Code\\DS\\Composite\\Interfaces\\IGenericComposite.cs",
+              "RelativeToolTip": "Composite\\Interfaces\\IGenericComposite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T19:10:57.723Z",
+              "WhenOpened": "2024-10-02T19:41:44.06Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AudioService.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Adapter\\AudioService.cs",
-              "RelativeDocumentMoniker": "Adapter\\AudioService.cs",
-              "ToolTip": "D:\\Code\\DS\\Adapter\\AudioService.cs",
-              "RelativeToolTip": "Adapter\\AudioService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T14:04:42.644Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FlacPlayer.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Adapter\\FlacPlayer.cs",
-              "RelativeDocumentMoniker": "Adapter\\FlacPlayer.cs",
-              "ToolTip": "D:\\Code\\DS\\Adapter\\FlacPlayer.cs",
-              "RelativeToolTip": "Adapter\\FlacPlayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T14:02:41.522Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MediaAdapter.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Adapter\\MediaAdapter.cs",
-              "RelativeDocumentMoniker": "Adapter\\MediaAdapter.cs",
-              "ToolTip": "D:\\Code\\DS\\Adapter\\MediaAdapter.cs",
-              "RelativeToolTip": "Adapter\\MediaAdapter.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T12:27:43.497Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Mp4Player.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Adapter\\Mp4Player.cs",
-              "RelativeDocumentMoniker": "Adapter\\Mp4Player.cs",
-              "ToolTip": "D:\\Code\\DS\\Adapter\\Mp4Player.cs",
-              "RelativeToolTip": "Adapter\\Mp4Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T12:26:58.931Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IMediaPlayer.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Adapter\\IMediaPlayer.cs",
-              "RelativeDocumentMoniker": "Adapter\\IMediaPlayer.cs",
-              "ToolTip": "D:\\Code\\DS\\Adapter\\IMediaPlayer.cs",
-              "RelativeToolTip": "Adapter\\IMediaPlayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T12:08:41.191Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AudioPlayer.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Adapter\\AudioPlayer.cs",
-              "RelativeDocumentMoniker": "Adapter\\AudioPlayer.cs",
-              "ToolTip": "D:\\Code\\DS\\Adapter\\AudioPlayer.cs",
-              "RelativeToolTip": "Adapter\\AudioPlayer.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA2wB8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T12:28:02.844Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "FlacToMp3Adapter.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Adapter\\FlacToMp3Adapter.cs",
-              "RelativeDocumentMoniker": "Adapter\\FlacToMp3Adapter.cs",
-              "ToolTip": "D:\\Code\\DS\\Adapter\\FlacToMp3Adapter.cs",
-              "RelativeToolTip": "Adapter\\FlacToMp3Adapter.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAADwvw4AAAAlAAAAAAAAAA==",
+              "Title": "IGenericComponent.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Composite\\Interfaces\\IGenericComponent.cs",
+              "RelativeDocumentMoniker": "Composite\\Interfaces\\IGenericComponent.cs",
+              "ToolTip": "D:\\Code\\DS\\Composite\\Interfaces\\IGenericComponent.cs",
+              "RelativeToolTip": "Composite\\Interfaces\\IGenericComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T14:03:14.975Z",
+              "WhenOpened": "2024-10-02T19:41:31.652Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IAdvancedMediaPlayer.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Adapter\\IAdvancedMediaPlayer.cs",
-              "RelativeDocumentMoniker": "Adapter\\IAdvancedMediaPlayer.cs",
-              "ToolTip": "D:\\Code\\DS\\Adapter\\IAdvancedMediaPlayer.cs",
-              "RelativeToolTip": "Adapter\\IAdvancedMediaPlayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T12:26:43.34Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IAudioService.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Adapter\\IAudioService.cs",
-              "RelativeDocumentMoniker": "Adapter\\IAudioService.cs",
-              "ToolTip": "D:\\Code\\DS\\Adapter\\IAudioService.cs",
-              "RelativeToolTip": "Adapter\\IAudioService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T14:02:18.291Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "VlcPlayer.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Adapter\\VlcPlayer.cs",
-              "RelativeDocumentMoniker": "Adapter\\VlcPlayer.cs",
-              "ToolTip": "D:\\Code\\DS\\Adapter\\VlcPlayer.cs",
-              "RelativeToolTip": "Adapter\\VlcPlayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T12:26:52.098Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CarBuilder.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Builder\\CarBuilder.cs",
-              "RelativeDocumentMoniker": "Builder\\CarBuilder.cs",
-              "ToolTip": "D:\\Code\\DS\\Builder\\CarBuilder.cs",
-              "RelativeToolTip": "Builder\\CarBuilder.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAUwCsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T11:05:40.771Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Adapter\\Program.cs",
-              "RelativeDocumentMoniker": "Adapter\\Program.cs",
-              "ToolTip": "D:\\Code\\DS\\Adapter\\Program.cs",
-              "RelativeToolTip": "Adapter\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAAAVAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Code\\DS\\Prototype\\Program.cs",
+              "RelativeDocumentMoniker": "Prototype\\Program.cs",
+              "ToolTip": "D:\\Code\\DS\\Prototype\\Program.cs",
+              "RelativeToolTip": "Prototype\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T10:14:13.351Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Car.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Builder\\Car.cs",
-              "RelativeDocumentMoniker": "Builder\\Car.cs",
-              "ToolTip": "D:\\Code\\DS\\Builder\\Car.cs",
-              "RelativeToolTip": "Builder\\Car.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T11:05:29.156Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "FluentComputerBuilder.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Builder\\FluentComputerBuilder.cs",
-              "RelativeDocumentMoniker": "Builder\\FluentComputerBuilder.cs",
-              "ToolTip": "D:\\Code\\DS\\Builder\\FluentComputerBuilder.cs",
-              "RelativeToolTip": "Builder\\FluentComputerBuilder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T10:29:36.089Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "OfficeComputerBuilder.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Builder\\OfficeComputerBuilder.cs",
-              "RelativeDocumentMoniker": "Builder\\OfficeComputerBuilder.cs",
-              "ToolTip": "D:\\Code\\DS\\Builder\\OfficeComputerBuilder.cs",
-              "RelativeToolTip": "Builder\\OfficeComputerBuilder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T10:11:07.122Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Builder\\Program.cs",
-              "RelativeDocumentMoniker": "Builder\\Program.cs",
-              "ToolTip": "D:\\Code\\DS\\Builder\\Program.cs",
-              "RelativeToolTip": "Builder\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T08:45:37.213Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "IComputerBuilder.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Builder\\IComputerBuilder.cs",
-              "RelativeDocumentMoniker": "Builder\\IComputerBuilder.cs",
-              "ToolTip": "D:\\Code\\DS\\Builder\\IComputerBuilder.cs",
-              "RelativeToolTip": "Builder\\IComputerBuilder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T08:46:19.458Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "UltrabookBuilder.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Builder\\UltrabookBuilder.cs",
-              "RelativeDocumentMoniker": "Builder\\UltrabookBuilder.cs",
-              "ToolTip": "D:\\Code\\DS\\Builder\\UltrabookBuilder.cs",
-              "RelativeToolTip": "Builder\\UltrabookBuilder.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAA/wCsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T10:11:49.448Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ComputerDirector.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Builder\\ComputerDirector.cs",
-              "RelativeDocumentMoniker": "Builder\\ComputerDirector.cs",
-              "ToolTip": "D:\\Code\\DS\\Builder\\ComputerDirector.cs",
-              "RelativeToolTip": "Builder\\ComputerDirector.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvxcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T10:12:27.112Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Computer.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Builder\\Computer.cs",
-              "RelativeDocumentMoniker": "Builder\\Computer.cs",
-              "ToolTip": "D:\\Code\\DS\\Builder\\Computer.cs",
-              "RelativeToolTip": "Builder\\Computer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T08:45:57.146Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "GamingComputerBuilder.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Builder\\GamingComputerBuilder.cs",
-              "RelativeDocumentMoniker": "Builder\\GamingComputerBuilder.cs",
-              "ToolTip": "D:\\Code\\DS\\Builder\\GamingComputerBuilder.cs",
-              "RelativeToolTip": "Builder\\GamingComputerBuilder.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAkwCsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T10:10:52.569Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Factory Method",
-              "DocumentMoniker": "D:\\Code\\DS\\Factory-design-pattern\\Factory Method.csproj",
-              "RelativeDocumentMoniker": "Factory-design-pattern\\Factory Method.csproj",
-              "ToolTip": "D:\\Code\\DS\\Factory-design-pattern\\Factory Method.csproj",
-              "RelativeToolTip": "Factory-design-pattern\\Factory Method.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-27T08:45:08.116Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Abstract Factory",
-              "DocumentMoniker": "D:\\Code\\DS\\Abstract Factory\\Abstract Factory.csproj",
-              "RelativeDocumentMoniker": "Abstract Factory\\Abstract Factory.csproj",
-              "ToolTip": "D:\\Code\\DS\\Abstract Factory\\Abstract Factory.csproj",
-              "RelativeToolTip": "Abstract Factory\\Abstract Factory.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-27T08:45:02.259Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "JpgDocument.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Factory-design-pattern\\JpgDocument.cs",
-              "RelativeDocumentMoniker": "Factory-design-pattern\\JpgDocument.cs",
-              "ToolTip": "D:\\Code\\DS\\Factory-design-pattern\\JpgDocument.cs",
-              "RelativeToolTip": "Factory-design-pattern\\JpgDocument.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T00:09:02.236Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "PngDocument.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Factory-design-pattern\\PngDocument.cs",
-              "RelativeDocumentMoniker": "Factory-design-pattern\\PngDocument.cs",
-              "ToolTip": "D:\\Code\\DS\\Factory-design-pattern\\PngDocument.cs",
-              "RelativeToolTip": "Factory-design-pattern\\PngDocument.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T00:06:54.052Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "JpgEditor.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Factory-design-pattern\\JpgEditor.cs",
-              "RelativeDocumentMoniker": "Factory-design-pattern\\JpgEditor.cs",
-              "ToolTip": "D:\\Code\\DS\\Factory-design-pattern\\JpgEditor.cs",
-              "RelativeToolTip": "Factory-design-pattern\\JpgEditor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T00:06:47.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Document.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Factory-design-pattern\\Document.cs",
-              "RelativeDocumentMoniker": "Factory-design-pattern\\Document.cs",
-              "ToolTip": "D:\\Code\\DS\\Factory-design-pattern\\Document.cs",
-              "RelativeToolTip": "Factory-design-pattern\\Document.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T00:06:35.969Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Application.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Factory-design-pattern\\Application.cs",
-              "RelativeDocumentMoniker": "Factory-design-pattern\\Application.cs",
-              "ToolTip": "D:\\Code\\DS\\Factory-design-pattern\\Application.cs",
-              "RelativeToolTip": "Factory-design-pattern\\Application.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T00:06:33.608Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Abstract Factory\\Program.cs",
-              "RelativeDocumentMoniker": "Abstract Factory\\Program.cs",
-              "ToolTip": "D:\\Code\\DS\\Abstract Factory\\Program.cs",
-              "RelativeToolTip": "Abstract Factory\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwDoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T00:06:30.501Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Factory-design-pattern\\Program.cs",
-              "RelativeDocumentMoniker": "Factory-design-pattern\\Program.cs",
-              "ToolTip": "D:\\Code\\DS\\Factory-design-pattern\\Program.cs",
-              "RelativeToolTip": "Factory-design-pattern\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBIAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T12:38:23.55Z"
+              "WhenOpened": "2024-10-02T19:34:25.246Z",
+              "EditorCaption": ""
             }
           ]
         },
