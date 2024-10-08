@@ -3,56 +3,56 @@
   "WorkspaceRootPath": "D:\\Code\\DS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|d:\\code\\ds\\decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|solutionrelative:decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|d:\\code\\ds\\bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|solutionrelative:bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|d:\\code\\ds\\decorator\\generics\\genericconcretedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|solutionrelative:decorator\\generics\\genericconcretedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|d:\\code\\ds\\bridge\\approaches\\eventhandlerapproach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|solutionrelative:bridge\\approaches\\eventhandlerapproach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|d:\\code\\ds\\decorator\\generics\\genericdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|solutionrelative:decorator\\generics\\genericdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|d:\\code\\ds\\bridge\\approaches\\genericapproach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|solutionrelative:bridge\\approaches\\genericapproach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|d:\\code\\ds\\decorator\\decorator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|solutionrelative:decorator\\decorator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|d:\\code\\ds\\bridge\\approaches\\delegateandfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|solutionrelative:bridge\\approaches\\delegateandfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|d:\\code\\ds\\decorator\\abstractdecorators\\concreteabstractdecoratora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|solutionrelative:decorator\\abstractdecorators\\concreteabstractdecoratora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|d:\\code\\ds\\bridge\\approaches\\interfaceandabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|solutionrelative:bridge\\approaches\\interfaceandabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|d:\\code\\ds\\decorator\\concretecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|solutionrelative:decorator\\concretecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|d:\\code\\ds\\bridge\\drawingapi\\v2drawingapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|solutionrelative:bridge\\drawingapi\\v2drawingapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|d:\\code\\ds\\decorator\\abstractdecorators\\abstractdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|solutionrelative:decorator\\abstractdecorators\\abstractdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|d:\\code\\ds\\bridge\\drawingapi\\v1drawingapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|solutionrelative:bridge\\drawingapi\\v1drawingapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|d:\\code\\ds\\decorator\\interfaces\\icomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|solutionrelative:decorator\\interfaces\\icomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|d:\\code\\ds\\bridge\\drawingapi\\idrawapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|solutionrelative:bridge\\drawingapi\\idrawapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|d:\\code\\ds\\decorator\\decorators\\concretedecoratorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|solutionrelative:decorator\\decorators\\concretedecoratorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|d:\\code\\ds\\bridge\\shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|solutionrelative:bridge\\shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|d:\\code\\ds\\decorator\\decorators\\concretedecoratora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|solutionrelative:decorator\\decorators\\concretedecoratora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|d:\\code\\ds\\bridge\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|solutionrelative:bridge\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|d:\\code\\ds\\decorator\\abstractdecorators\\concreteabstractdecoratorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|solutionrelative:decorator\\abstractdecorators\\concreteabstractdecoratorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|d:\\code\\ds\\bridge\\shapes\\shapebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|solutionrelative:bridge\\shapes\\shapebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|d:\\code\\ds\\decorator\\decorators\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|solutionrelative:decorator\\decorators\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|d:\\code\\ds\\bridge\\shapes\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|solutionrelative:bridge\\shapes\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|d:\\code\\ds\\decorator\\interfaces\\idecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|solutionrelative:decorator\\interfaces\\idecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|d:\\code\\ds\\bridge\\bridge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|solutionrelative:bridge\\bridge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,162 +62,175 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GenericConcreteDecorator.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Decorator\\Generics\\GenericConcreteDecorator.cs",
-              "RelativeDocumentMoniker": "Decorator\\Generics\\GenericConcreteDecorator.cs",
-              "ToolTip": "D:\\Code\\DS\\Decorator\\Generics\\GenericConcreteDecorator.cs*",
-              "RelativeToolTip": "Decorator\\Generics\\GenericConcreteDecorator.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAkAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T12:57:22.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GenericDecorator.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Decorator\\Generics\\GenericDecorator.cs",
-              "RelativeDocumentMoniker": "Decorator\\Generics\\GenericDecorator.cs",
-              "ToolTip": "D:\\Code\\DS\\Decorator\\Generics\\GenericDecorator.cs*",
-              "RelativeToolTip": "Decorator\\Generics\\GenericDecorator.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T12:57:01.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ConcreteComponent.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Decorator\\ConcreteComponent.cs",
-              "RelativeDocumentMoniker": "Decorator\\ConcreteComponent.cs",
-              "ToolTip": "D:\\Code\\DS\\Decorator\\ConcreteComponent.cs",
-              "RelativeToolTip": "Decorator\\ConcreteComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T12:22:24.492Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Decorator\\Program.cs",
-              "RelativeDocumentMoniker": "Decorator\\Program.cs",
-              "ToolTip": "D:\\Code\\DS\\Decorator\\Program.cs",
-              "RelativeToolTip": "Decorator\\Program.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAuwCwAAAAYAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Program.cs",
+              "RelativeDocumentMoniker": "Bridge\\Program.cs",
+              "ToolTip": "D:\\Code\\DS\\Bridge\\Program.cs*",
+              "RelativeToolTip": "Bridge\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T12:16:20.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AbstractDecorator.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Decorator\\AbstractDecorators\\AbstractDecorator.cs",
-              "RelativeDocumentMoniker": "Decorator\\AbstractDecorators\\AbstractDecorator.cs",
-              "ToolTip": "D:\\Code\\DS\\Decorator\\AbstractDecorators\\AbstractDecorator.cs",
-              "RelativeToolTip": "Decorator\\AbstractDecorators\\AbstractDecorator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T12:22:43.492Z",
+              "WhenOpened": "2024-10-08T17:41:17.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ConcreteAbstractDecoratorA.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Decorator\\AbstractDecorators\\ConcreteAbstractDecoratorA.cs",
-              "RelativeDocumentMoniker": "Decorator\\AbstractDecorators\\ConcreteAbstractDecoratorA.cs",
-              "ToolTip": "D:\\Code\\DS\\Decorator\\AbstractDecorators\\ConcreteAbstractDecoratorA.cs",
-              "RelativeToolTip": "Decorator\\AbstractDecorators\\ConcreteAbstractDecoratorA.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Title": "InterfaceAndAbstract.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Approaches\\InterfaceAndAbstract.cs",
+              "RelativeDocumentMoniker": "Bridge\\Approaches\\InterfaceAndAbstract.cs",
+              "ToolTip": "D:\\Code\\DS\\Bridge\\Approaches\\InterfaceAndAbstract.cs",
+              "RelativeToolTip": "Bridge\\Approaches\\InterfaceAndAbstract.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T12:22:58.338Z",
+              "WhenOpened": "2024-10-08T17:39:04.23Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Decorator",
-              "DocumentMoniker": "D:\\Code\\DS\\Decorator\\Decorator.csproj",
-              "RelativeDocumentMoniker": "Decorator\\Decorator.csproj",
-              "ToolTip": "D:\\Code\\DS\\Decorator\\Decorator.csproj*",
-              "RelativeToolTip": "Decorator\\Decorator.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-08T12:22:21.278Z",
+              "Title": "DelegateAndFunc.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Approaches\\DelegateAndFunc.cs",
+              "RelativeDocumentMoniker": "Bridge\\Approaches\\DelegateAndFunc.cs",
+              "ToolTip": "D:\\Code\\DS\\Bridge\\Approaches\\DelegateAndFunc.cs",
+              "RelativeToolTip": "Bridge\\Approaches\\DelegateAndFunc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:39:07.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericApproach.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Approaches\\GenericApproach.cs",
+              "RelativeDocumentMoniker": "Bridge\\Approaches\\GenericApproach.cs",
+              "ToolTip": "D:\\Code\\DS\\Bridge\\Approaches\\GenericApproach.cs",
+              "RelativeToolTip": "Bridge\\Approaches\\GenericApproach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:39:11.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventHandlerApproach.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Approaches\\EventHandlerApproach.cs",
+              "RelativeDocumentMoniker": "Bridge\\Approaches\\EventHandlerApproach.cs",
+              "ToolTip": "D:\\Code\\DS\\Bridge\\Approaches\\EventHandlerApproach.cs",
+              "RelativeToolTip": "Bridge\\Approaches\\EventHandlerApproach.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:39:14.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "V2DrawingAPI.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\DrawingAPI\\V2DrawingAPI.cs",
+              "RelativeDocumentMoniker": "Bridge\\DrawingAPI\\V2DrawingAPI.cs",
+              "ToolTip": "D:\\Code\\DS\\Bridge\\DrawingAPI\\V2DrawingAPI.cs",
+              "RelativeToolTip": "Bridge\\DrawingAPI\\V2DrawingAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:38:59.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "V1DrawingAPI.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\DrawingAPI\\V1DrawingAPI.cs",
+              "RelativeDocumentMoniker": "Bridge\\DrawingAPI\\V1DrawingAPI.cs",
+              "ToolTip": "D:\\Code\\DS\\Bridge\\DrawingAPI\\V1DrawingAPI.cs",
+              "RelativeToolTip": "Bridge\\DrawingAPI\\V1DrawingAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:38:55.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IComponent.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Decorator\\Interfaces\\IComponent.cs",
-              "RelativeDocumentMoniker": "Decorator\\Interfaces\\IComponent.cs",
-              "ToolTip": "D:\\Code\\DS\\Decorator\\Interfaces\\IComponent.cs",
-              "RelativeToolTip": "Decorator\\Interfaces\\IComponent.cs",
+              "Title": "IDrawAPI.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\DrawingAPI\\IDrawAPI.cs",
+              "RelativeDocumentMoniker": "Bridge\\DrawingAPI\\IDrawAPI.cs",
+              "ToolTip": "D:\\Code\\DS\\Bridge\\DrawingAPI\\IDrawAPI.cs",
+              "RelativeToolTip": "Bridge\\DrawingAPI\\IDrawAPI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T12:17:30.483Z",
+              "WhenOpened": "2024-10-08T17:38:47.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ConcreteDecoratorB.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Decorator\\Decorators\\ConcreteDecoratorB.cs",
-              "RelativeDocumentMoniker": "Decorator\\Decorators\\ConcreteDecoratorB.cs",
-              "ToolTip": "D:\\Code\\DS\\Decorator\\Decorators\\ConcreteDecoratorB.cs",
-              "RelativeToolTip": "Decorator\\Decorators\\ConcreteDecoratorB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Shapes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Bridge\\Shapes\\Rectangle.cs",
+              "ToolTip": "D:\\Code\\DS\\Bridge\\Shapes\\Rectangle.cs",
+              "RelativeToolTip": "Bridge\\Shapes\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T12:34:04.089Z",
+              "WhenOpened": "2024-10-08T17:38:42.388Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ConcreteDecoratorA.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Decorator\\Decorators\\ConcreteDecoratorA.cs",
-              "RelativeDocumentMoniker": "Decorator\\Decorators\\ConcreteDecoratorA.cs",
-              "ToolTip": "D:\\Code\\DS\\Decorator\\Decorators\\ConcreteDecoratorA.cs",
-              "RelativeToolTip": "Decorator\\Decorators\\ConcreteDecoratorA.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "Bridge\\Shapes\\Circle.cs",
+              "ToolTip": "D:\\Code\\DS\\Bridge\\Shapes\\Circle.cs",
+              "RelativeToolTip": "Bridge\\Shapes\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T12:33:44.558Z",
+              "WhenOpened": "2024-10-08T17:38:37.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ConcreteAbstractDecoratorB.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Decorator\\AbstractDecorators\\ConcreteAbstractDecoratorB.cs",
-              "RelativeDocumentMoniker": "Decorator\\AbstractDecorators\\ConcreteAbstractDecoratorB.cs",
-              "ToolTip": "D:\\Code\\DS\\Decorator\\AbstractDecorators\\ConcreteAbstractDecoratorB.cs",
-              "RelativeToolTip": "Decorator\\AbstractDecorators\\ConcreteAbstractDecoratorB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Title": "ShapeBase.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Shapes\\ShapeBase.cs",
+              "RelativeDocumentMoniker": "Bridge\\Shapes\\ShapeBase.cs",
+              "ToolTip": "D:\\Code\\DS\\Bridge\\Shapes\\ShapeBase.cs",
+              "RelativeToolTip": "Bridge\\Shapes\\ShapeBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T12:32:34.528Z",
+              "WhenOpened": "2024-10-08T17:38:32.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Decorator.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Decorator\\Decorators\\Decorator.cs",
-              "RelativeDocumentMoniker": "Decorator\\Decorators\\Decorator.cs",
-              "ToolTip": "D:\\Code\\DS\\Decorator\\Decorators\\Decorator.cs",
-              "RelativeToolTip": "Decorator\\Decorators\\Decorator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Title": "IShape.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Shapes\\IShape.cs",
+              "RelativeDocumentMoniker": "Bridge\\Shapes\\IShape.cs",
+              "ToolTip": "D:\\Code\\DS\\Bridge\\Shapes\\IShape.cs",
+              "RelativeToolTip": "Bridge\\Shapes\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T12:33:28.888Z",
+              "WhenOpened": "2024-10-08T17:38:28.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Bridge",
+              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Bridge.csproj",
+              "RelativeDocumentMoniker": "Bridge\\Bridge.csproj",
+              "ToolTip": "D:\\Code\\DS\\Bridge\\Bridge.csproj",
+              "RelativeToolTip": "Bridge\\Bridge.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T15:13:02.037Z",
               "EditorCaption": ""
             },
             {
@@ -339,19 +352,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IDecorator.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Decorator\\Interfaces\\IDecorator.cs",
-              "RelativeDocumentMoniker": "Decorator\\Interfaces\\IDecorator.cs",
-              "ToolTip": "D:\\Code\\DS\\Decorator\\Interfaces\\IDecorator.cs",
-              "RelativeToolTip": "Decorator\\Interfaces\\IDecorator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T12:17:43.406Z",
-              "EditorCaption": ""
             }
           ]
         },
