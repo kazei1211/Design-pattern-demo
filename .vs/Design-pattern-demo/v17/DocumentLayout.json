@@ -3,52 +3,56 @@
   "WorkspaceRootPath": "D:\\Code\\DS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|d:\\code\\ds\\composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|solutionrelative:composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|d:\\code\\ds\\decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|solutionrelative:decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|d:\\code\\ds\\composite\\implementations\\interfacecomposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|solutionrelative:composite\\implementations\\interfacecomposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|d:\\code\\ds\\decorator\\generics\\genericconcretedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|solutionrelative:decorator\\generics\\genericconcretedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|d:\\code\\ds\\composite\\interfaces\\icomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|solutionrelative:composite\\interfaces\\icomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|d:\\code\\ds\\decorator\\generics\\genericdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|solutionrelative:decorator\\generics\\genericdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|d:\\code\\ds\\composite\\implementations\\interfaceleaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|solutionrelative:composite\\implementations\\interfaceleaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|d:\\code\\ds\\decorator\\decorator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|solutionrelative:decorator\\decorator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|d:\\code\\ds\\composite\\implementations\\genericleaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|solutionrelative:composite\\implementations\\genericleaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|d:\\code\\ds\\decorator\\abstractdecorators\\concreteabstractdecoratora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|solutionrelative:decorator\\abstractdecorators\\concreteabstractdecoratora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|d:\\code\\ds\\composite\\implementations\\genericcomposite .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|solutionrelative:composite\\implementations\\genericcomposite .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|d:\\code\\ds\\decorator\\concretecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|solutionrelative:decorator\\concretecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|d:\\code\\ds\\composite\\implementations\\abstractcomposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|solutionrelative:composite\\implementations\\abstractcomposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|d:\\code\\ds\\decorator\\abstractdecorators\\abstractdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|solutionrelative:decorator\\abstractdecorators\\abstractdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|d:\\code\\ds\\composite\\implementations\\abstractleaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|solutionrelative:composite\\implementations\\abstractleaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|d:\\code\\ds\\decorator\\interfaces\\icomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|solutionrelative:decorator\\interfaces\\icomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|d:\\code\\ds\\composite\\abstracts\\abstractcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|solutionrelative:composite\\abstracts\\abstractcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|d:\\code\\ds\\decorator\\decorators\\concretedecoratorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|solutionrelative:decorator\\decorators\\concretedecoratorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|d:\\code\\ds\\composite\\interfaces\\igenericcomposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|solutionrelative:composite\\interfaces\\igenericcomposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|d:\\code\\ds\\decorator\\decorators\\concretedecoratora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|solutionrelative:decorator\\decorators\\concretedecoratora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|d:\\code\\ds\\composite\\interfaces\\igenericcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FD63F03-F1B3-4F52-AD20-9F3E447EB938}|Composite\\Composite.csproj|solutionrelative:composite\\interfaces\\igenericcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|d:\\code\\ds\\decorator\\abstractdecorators\\concreteabstractdecoratorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|solutionrelative:decorator\\abstractdecorators\\concreteabstractdecoratorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4394515-E89C-426E-98F9-A9AFF5450AE4}|Prototype\\Prototype.csproj|d:\\code\\ds\\prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4394515-E89C-426E-98F9-A9AFF5450AE4}|Prototype\\Prototype.csproj|solutionrelative:prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|d:\\code\\ds\\decorator\\decorators\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|solutionrelative:decorator\\decorators\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|d:\\code\\ds\\decorator\\interfaces\\idecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDBCC5E-E239-4379-B1D0-F05860F2D906}|Decorator\\Decorator.csproj|solutionrelative:decorator\\interfaces\\idecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,8 +62,164 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 35,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericConcreteDecorator.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Decorator\\Generics\\GenericConcreteDecorator.cs",
+              "RelativeDocumentMoniker": "Decorator\\Generics\\GenericConcreteDecorator.cs",
+              "ToolTip": "D:\\Code\\DS\\Decorator\\Generics\\GenericConcreteDecorator.cs*",
+              "RelativeToolTip": "Decorator\\Generics\\GenericConcreteDecorator.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:57:22.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericDecorator.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Decorator\\Generics\\GenericDecorator.cs",
+              "RelativeDocumentMoniker": "Decorator\\Generics\\GenericDecorator.cs",
+              "ToolTip": "D:\\Code\\DS\\Decorator\\Generics\\GenericDecorator.cs*",
+              "RelativeToolTip": "Decorator\\Generics\\GenericDecorator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:57:01.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConcreteComponent.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Decorator\\ConcreteComponent.cs",
+              "RelativeDocumentMoniker": "Decorator\\ConcreteComponent.cs",
+              "ToolTip": "D:\\Code\\DS\\Decorator\\ConcreteComponent.cs",
+              "RelativeToolTip": "Decorator\\ConcreteComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:22:24.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Decorator\\Program.cs",
+              "RelativeDocumentMoniker": "Decorator\\Program.cs",
+              "ToolTip": "D:\\Code\\DS\\Decorator\\Program.cs",
+              "RelativeToolTip": "Decorator\\Program.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAuwCwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:16:20.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AbstractDecorator.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Decorator\\AbstractDecorators\\AbstractDecorator.cs",
+              "RelativeDocumentMoniker": "Decorator\\AbstractDecorators\\AbstractDecorator.cs",
+              "ToolTip": "D:\\Code\\DS\\Decorator\\AbstractDecorators\\AbstractDecorator.cs",
+              "RelativeToolTip": "Decorator\\AbstractDecorators\\AbstractDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:22:43.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConcreteAbstractDecoratorA.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Decorator\\AbstractDecorators\\ConcreteAbstractDecoratorA.cs",
+              "RelativeDocumentMoniker": "Decorator\\AbstractDecorators\\ConcreteAbstractDecoratorA.cs",
+              "ToolTip": "D:\\Code\\DS\\Decorator\\AbstractDecorators\\ConcreteAbstractDecoratorA.cs",
+              "RelativeToolTip": "Decorator\\AbstractDecorators\\ConcreteAbstractDecoratorA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:22:58.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Decorator",
+              "DocumentMoniker": "D:\\Code\\DS\\Decorator\\Decorator.csproj",
+              "RelativeDocumentMoniker": "Decorator\\Decorator.csproj",
+              "ToolTip": "D:\\Code\\DS\\Decorator\\Decorator.csproj*",
+              "RelativeToolTip": "Decorator\\Decorator.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T12:22:21.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IComponent.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Decorator\\Interfaces\\IComponent.cs",
+              "RelativeDocumentMoniker": "Decorator\\Interfaces\\IComponent.cs",
+              "ToolTip": "D:\\Code\\DS\\Decorator\\Interfaces\\IComponent.cs",
+              "RelativeToolTip": "Decorator\\Interfaces\\IComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:17:30.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConcreteDecoratorB.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Decorator\\Decorators\\ConcreteDecoratorB.cs",
+              "RelativeDocumentMoniker": "Decorator\\Decorators\\ConcreteDecoratorB.cs",
+              "ToolTip": "D:\\Code\\DS\\Decorator\\Decorators\\ConcreteDecoratorB.cs",
+              "RelativeToolTip": "Decorator\\Decorators\\ConcreteDecoratorB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:34:04.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConcreteDecoratorA.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Decorator\\Decorators\\ConcreteDecoratorA.cs",
+              "RelativeDocumentMoniker": "Decorator\\Decorators\\ConcreteDecoratorA.cs",
+              "ToolTip": "D:\\Code\\DS\\Decorator\\Decorators\\ConcreteDecoratorA.cs",
+              "RelativeToolTip": "Decorator\\Decorators\\ConcreteDecoratorA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:33:44.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConcreteAbstractDecoratorB.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Decorator\\AbstractDecorators\\ConcreteAbstractDecoratorB.cs",
+              "RelativeDocumentMoniker": "Decorator\\AbstractDecorators\\ConcreteAbstractDecoratorB.cs",
+              "ToolTip": "D:\\Code\\DS\\Decorator\\AbstractDecorators\\ConcreteAbstractDecoratorB.cs",
+              "RelativeToolTip": "Decorator\\AbstractDecorators\\ConcreteAbstractDecoratorB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:32:34.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Decorator.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Decorator\\Decorators\\Decorator.cs",
+              "RelativeDocumentMoniker": "Decorator\\Decorators\\Decorator.cs",
+              "ToolTip": "D:\\Code\\DS\\Decorator\\Decorators\\Decorator.cs",
+              "RelativeToolTip": "Decorator\\Decorators\\Decorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:33:28.888Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -182,158 +342,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GenericComposite .cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Composite\\Implementations\\GenericComposite .cs",
-              "RelativeDocumentMoniker": "Composite\\Implementations\\GenericComposite .cs",
-              "ToolTip": "D:\\Code\\DS\\Composite\\Implementations\\GenericComposite .cs",
-              "RelativeToolTip": "Composite\\Implementations\\GenericComposite .cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T19:45:00.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GenericLeaf.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Composite\\Implementations\\GenericLeaf.cs",
-              "RelativeDocumentMoniker": "Composite\\Implementations\\GenericLeaf.cs",
-              "ToolTip": "D:\\Code\\DS\\Composite\\Implementations\\GenericLeaf.cs",
-              "RelativeToolTip": "Composite\\Implementations\\GenericLeaf.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T19:44:49.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AbstractComposite.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Composite\\Implementations\\AbstractComposite.cs",
-              "RelativeDocumentMoniker": "Composite\\Implementations\\AbstractComposite.cs",
-              "ToolTip": "D:\\Code\\DS\\Composite\\Implementations\\AbstractComposite.cs",
-              "RelativeToolTip": "Composite\\Implementations\\AbstractComposite.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T19:44:39.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InterfaceComposite.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Composite\\Implementations\\InterfaceComposite.cs",
-              "RelativeDocumentMoniker": "Composite\\Implementations\\InterfaceComposite.cs",
-              "ToolTip": "D:\\Code\\DS\\Composite\\Implementations\\InterfaceComposite.cs",
-              "RelativeToolTip": "Composite\\Implementations\\InterfaceComposite.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAgwA4AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T19:42:49.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "InterfaceLeaf.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Composite\\Implementations\\InterfaceLeaf.cs",
-              "RelativeDocumentMoniker": "Composite\\Implementations\\InterfaceLeaf.cs",
-              "ToolTip": "D:\\Code\\DS\\Composite\\Implementations\\InterfaceLeaf.cs",
-              "RelativeToolTip": "Composite\\Implementations\\InterfaceLeaf.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T19:42:37.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Composite\\Program.cs",
-              "RelativeDocumentMoniker": "Composite\\Program.cs",
-              "ToolTip": "D:\\Code\\DS\\Composite\\Program.cs",
-              "RelativeToolTip": "Composite\\Program.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAcwDsAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T19:37:51.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IComponent.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Composite\\Interfaces\\IComponent.cs",
-              "RelativeDocumentMoniker": "Composite\\Interfaces\\IComponent.cs",
-              "ToolTip": "D:\\Code\\DS\\Composite\\Interfaces\\IComponent.cs",
-              "RelativeToolTip": "Composite\\Interfaces\\IComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T19:41:19.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AbstractLeaf.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Composite\\Implementations\\AbstractLeaf.cs",
-              "RelativeDocumentMoniker": "Composite\\Implementations\\AbstractLeaf.cs",
-              "ToolTip": "D:\\Code\\DS\\Composite\\Implementations\\AbstractLeaf.cs",
-              "RelativeToolTip": "Composite\\Implementations\\AbstractLeaf.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T19:44:27.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AbstractComponent.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Composite\\Abstracts\\AbstractComponent.cs",
-              "RelativeDocumentMoniker": "Composite\\Abstracts\\AbstractComponent.cs",
-              "ToolTip": "D:\\Code\\DS\\Composite\\Abstracts\\AbstractComponent.cs",
-              "RelativeToolTip": "Composite\\Abstracts\\AbstractComponent.cs",
+              "DocumentIndex": 12,
+              "Title": "IDecorator.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Decorator\\Interfaces\\IDecorator.cs",
+              "RelativeDocumentMoniker": "Decorator\\Interfaces\\IDecorator.cs",
+              "ToolTip": "D:\\Code\\DS\\Decorator\\Interfaces\\IDecorator.cs",
+              "RelativeToolTip": "Decorator\\Interfaces\\IDecorator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T19:42:26.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IGenericComposite.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Composite\\Interfaces\\IGenericComposite.cs",
-              "RelativeDocumentMoniker": "Composite\\Interfaces\\IGenericComposite.cs",
-              "ToolTip": "D:\\Code\\DS\\Composite\\Interfaces\\IGenericComposite.cs",
-              "RelativeToolTip": "Composite\\Interfaces\\IGenericComposite.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T19:41:44.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IGenericComponent.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Composite\\Interfaces\\IGenericComponent.cs",
-              "RelativeDocumentMoniker": "Composite\\Interfaces\\IGenericComponent.cs",
-              "ToolTip": "D:\\Code\\DS\\Composite\\Interfaces\\IGenericComponent.cs",
-              "RelativeToolTip": "Composite\\Interfaces\\IGenericComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T19:41:31.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Prototype\\Program.cs",
-              "RelativeDocumentMoniker": "Prototype\\Program.cs",
-              "ToolTip": "D:\\Code\\DS\\Prototype\\Program.cs",
-              "RelativeToolTip": "Prototype\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T19:34:25.246Z",
+              "WhenOpened": "2024-10-08T12:17:43.406Z",
               "EditorCaption": ""
             }
           ]
