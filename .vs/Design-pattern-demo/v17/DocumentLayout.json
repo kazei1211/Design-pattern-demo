@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "D:\\Code\\DS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{608EB22F-E5E4-49DF-9E47-72CE66297E1C}|Facade\\Facade.csproj|d:\\code\\ds\\facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608EB22F-E5E4-49DF-9E47-72CE66297E1C}|Facade\\Facade.csproj|solutionrelative:facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|d:\\code\\ds\\bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|solutionrelative:bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608EB22F-E5E4-49DF-9E47-72CE66297E1C}|Facade\\Facade.csproj|d:\\code\\ds\\facade\\subsystems\\subsystemc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608EB22F-E5E4-49DF-9E47-72CE66297E1C}|Facade\\Facade.csproj|solutionrelative:facade\\subsystems\\subsystemc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608EB22F-E5E4-49DF-9E47-72CE66297E1C}|Facade\\Facade.csproj|d:\\code\\ds\\facade\\approaches\\eventhandlerfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608EB22F-E5E4-49DF-9E47-72CE66297E1C}|Facade\\Facade.csproj|solutionrelative:facade\\approaches\\eventhandlerfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608EB22F-E5E4-49DF-9E47-72CE66297E1C}|Facade\\Facade.csproj|d:\\code\\ds\\facade\\approaches\\genericfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608EB22F-E5E4-49DF-9E47-72CE66297E1C}|Facade\\Facade.csproj|solutionrelative:facade\\approaches\\genericfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608EB22F-E5E4-49DF-9E47-72CE66297E1C}|Facade\\Facade.csproj|d:\\code\\ds\\facade\\approaches\\delegatefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608EB22F-E5E4-49DF-9E47-72CE66297E1C}|Facade\\Facade.csproj|solutionrelative:facade\\approaches\\delegatefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608EB22F-E5E4-49DF-9E47-72CE66297E1C}|Facade\\Facade.csproj|d:\\code\\ds\\facade\\approaches\\interfaceandabstractfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608EB22F-E5E4-49DF-9E47-72CE66297E1C}|Facade\\Facade.csproj|solutionrelative:facade\\approaches\\interfaceandabstractfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608EB22F-E5E4-49DF-9E47-72CE66297E1C}|Facade\\Facade.csproj|d:\\code\\ds\\facade\\subsystems\\subsystemb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608EB22F-E5E4-49DF-9E47-72CE66297E1C}|Facade\\Facade.csproj|solutionrelative:facade\\subsystems\\subsystemb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608EB22F-E5E4-49DF-9E47-72CE66297E1C}|Facade\\Facade.csproj|d:\\code\\ds\\facade\\subsystems\\subsystema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608EB22F-E5E4-49DF-9E47-72CE66297E1C}|Facade\\Facade.csproj|solutionrelative:facade\\subsystems\\subsystema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|d:\\code\\ds\\bridge\\approaches\\delegateandfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|solutionrelative:bridge\\approaches\\delegateandfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|d:\\code\\ds\\bridge\\approaches\\eventhandlerapproach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|d:\\code\\ds\\bridge\\approaches\\genericapproach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|solutionrelative:bridge\\approaches\\genericapproach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|d:\\code\\ds\\bridge\\approaches\\delegateandfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|solutionrelative:bridge\\approaches\\delegateandfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|d:\\code\\ds\\bridge\\approaches\\interfaceandabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,24 +94,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericFacade.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Facade\\Approaches\\GenericFacade.cs",
+              "RelativeDocumentMoniker": "Facade\\Approaches\\GenericFacade.cs",
+              "ToolTip": "D:\\Code\\DS\\Facade\\Approaches\\GenericFacade.cs",
+              "RelativeToolTip": "Facade\\Approaches\\GenericFacade.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:52:02.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventHandlerFacade.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Facade\\Approaches\\EventHandlerFacade.cs",
+              "RelativeDocumentMoniker": "Facade\\Approaches\\EventHandlerFacade.cs",
+              "ToolTip": "D:\\Code\\DS\\Facade\\Approaches\\EventHandlerFacade.cs",
+              "RelativeToolTip": "Facade\\Approaches\\EventHandlerFacade.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:52:06.018Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Facade\\Program.cs",
+              "RelativeDocumentMoniker": "Facade\\Program.cs",
+              "ToolTip": "D:\\Code\\DS\\Facade\\Program.cs",
+              "RelativeToolTip": "Facade\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:51:10.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubsystemC.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Facade\\Subsystems\\SubsystemC.cs",
+              "RelativeDocumentMoniker": "Facade\\Subsystems\\SubsystemC.cs",
+              "ToolTip": "D:\\Code\\DS\\Facade\\Subsystems\\SubsystemC.cs",
+              "RelativeToolTip": "Facade\\Subsystems\\SubsystemC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:51:47.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Program.cs",
               "RelativeDocumentMoniker": "Bridge\\Program.cs",
-              "ToolTip": "D:\\Code\\DS\\Bridge\\Program.cs*",
-              "RelativeToolTip": "Bridge\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Code\\DS\\Bridge\\Program.cs",
+              "RelativeToolTip": "Bridge\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCEAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-08T17:41:17.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "DelegateFacade.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Facade\\Approaches\\DelegateFacade.cs",
+              "RelativeDocumentMoniker": "Facade\\Approaches\\DelegateFacade.cs",
+              "ToolTip": "D:\\Code\\DS\\Facade\\Approaches\\DelegateFacade.cs",
+              "RelativeToolTip": "Facade\\Approaches\\DelegateFacade.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:51:59.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InterfaceAndAbstractFacade.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Facade\\Approaches\\InterfaceAndAbstractFacade.cs",
+              "RelativeDocumentMoniker": "Facade\\Approaches\\InterfaceAndAbstractFacade.cs",
+              "ToolTip": "D:\\Code\\DS\\Facade\\Approaches\\InterfaceAndAbstractFacade.cs",
+              "RelativeToolTip": "Facade\\Approaches\\InterfaceAndAbstractFacade.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:51:53.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubsystemB.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Facade\\Subsystems\\SubsystemB.cs",
+              "RelativeDocumentMoniker": "Facade\\Subsystems\\SubsystemB.cs",
+              "ToolTip": "D:\\Code\\DS\\Facade\\Subsystems\\SubsystemB.cs",
+              "RelativeToolTip": "Facade\\Subsystems\\SubsystemB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:51:42.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SubsystemA.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Facade\\Subsystems\\SubsystemA.cs",
+              "RelativeDocumentMoniker": "Facade\\Subsystems\\SubsystemA.cs",
+              "ToolTip": "D:\\Code\\DS\\Facade\\Subsystems\\SubsystemA.cs",
+              "RelativeToolTip": "Facade\\Subsystems\\SubsystemA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:51:37.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "InterfaceAndAbstract.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Approaches\\InterfaceAndAbstract.cs",
               "RelativeDocumentMoniker": "Bridge\\Approaches\\InterfaceAndAbstract.cs",
@@ -92,20 +228,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "DelegateAndFunc.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Approaches\\DelegateAndFunc.cs",
               "RelativeDocumentMoniker": "Bridge\\Approaches\\DelegateAndFunc.cs",
               "ToolTip": "D:\\Code\\DS\\Bridge\\Approaches\\DelegateAndFunc.cs",
               "RelativeToolTip": "Bridge\\Approaches\\DelegateAndFunc.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAEwBkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-08T17:39:07.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "GenericApproach.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Approaches\\GenericApproach.cs",
               "RelativeDocumentMoniker": "Bridge\\Approaches\\GenericApproach.cs",
@@ -118,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "EventHandlerApproach.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Approaches\\EventHandlerApproach.cs",
               "RelativeDocumentMoniker": "Bridge\\Approaches\\EventHandlerApproach.cs",
@@ -131,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "V2DrawingAPI.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Bridge\\DrawingAPI\\V2DrawingAPI.cs",
               "RelativeDocumentMoniker": "Bridge\\DrawingAPI\\V2DrawingAPI.cs",
@@ -144,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "V1DrawingAPI.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Bridge\\DrawingAPI\\V1DrawingAPI.cs",
               "RelativeDocumentMoniker": "Bridge\\DrawingAPI\\V1DrawingAPI.cs",
@@ -157,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "IDrawAPI.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Bridge\\DrawingAPI\\IDrawAPI.cs",
               "RelativeDocumentMoniker": "Bridge\\DrawingAPI\\IDrawAPI.cs",
@@ -170,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Shapes\\Rectangle.cs",
               "RelativeDocumentMoniker": "Bridge\\Shapes\\Rectangle.cs",
@@ -183,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "Circle.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Shapes\\Circle.cs",
               "RelativeDocumentMoniker": "Bridge\\Shapes\\Circle.cs",
@@ -196,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "ShapeBase.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Shapes\\ShapeBase.cs",
               "RelativeDocumentMoniker": "Bridge\\Shapes\\ShapeBase.cs",
@@ -209,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "IShape.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Shapes\\IShape.cs",
               "RelativeDocumentMoniker": "Bridge\\Shapes\\IShape.cs",
@@ -222,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "Bridge",
               "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Bridge.csproj",
               "RelativeDocumentMoniker": "Bridge\\Bridge.csproj",
