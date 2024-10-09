@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "D:\\Code\\DS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0CEBD3AD-DE2E-4097-9D48-3EBA7336B7DF}|Template Method\\Template Method.csproj|d:\\code\\ds\\template method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CEBD3AD-DE2E-4097-9D48-3EBA7336B7DF}|Template Method\\Template Method.csproj|solutionrelative:template method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEBD3AD-DE2E-4097-9D48-3EBA7336B7DF}|Template Method\\Template Method.csproj|d:\\code\\ds\\template method\\templatemethodwithgenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CEBD3AD-DE2E-4097-9D48-3EBA7336B7DF}|Template Method\\Template Method.csproj|solutionrelative:template method\\templatemethodwithgenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEBD3AD-DE2E-4097-9D48-3EBA7336B7DF}|Template Method\\Template Method.csproj|d:\\code\\ds\\template method\\templatemethodwithreflection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CEBD3AD-DE2E-4097-9D48-3EBA7336B7DF}|Template Method\\Template Method.csproj|solutionrelative:template method\\templatemethodwithreflection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEBD3AD-DE2E-4097-9D48-3EBA7336B7DF}|Template Method\\Template Method.csproj|d:\\code\\ds\\template method\\templatemethodwithstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CEBD3AD-DE2E-4097-9D48-3EBA7336B7DF}|Template Method\\Template Method.csproj|solutionrelative:template method\\templatemethodwithstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEBD3AD-DE2E-4097-9D48-3EBA7336B7DF}|Template Method\\Template Method.csproj|d:\\code\\ds\\template method\\templatemethodwithhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CEBD3AD-DE2E-4097-9D48-3EBA7336B7DF}|Template Method\\Template Method.csproj|solutionrelative:template method\\templatemethodwithhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEBD3AD-DE2E-4097-9D48-3EBA7336B7DF}|Template Method\\Template Method.csproj|d:\\code\\ds\\template method\\basictemplatemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CEBD3AD-DE2E-4097-9D48-3EBA7336B7DF}|Template Method\\Template Method.csproj|solutionrelative:template method\\basictemplatemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|d:\\code\\ds\\state\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|solutionrelative:state\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|d:\\code\\ds\\state\\strategystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|solutionrelative:state\\strategystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|d:\\code\\ds\\state\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|solutionrelative:state\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|d:\\code\\ds\\state\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|solutionrelative:state\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 30,
+          "SelectedChildIndex": 33,
           "Children": [
             {
               "$type": "Bookmark",
@@ -162,20 +186,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TemplateMethodWithGenerics.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Template Method\\TemplateMethodWithGenerics.cs",
+              "RelativeDocumentMoniker": "Template Method\\TemplateMethodWithGenerics.cs",
+              "ToolTip": "D:\\Code\\DS\\Template Method\\TemplateMethodWithGenerics.cs",
+              "RelativeToolTip": "Template Method\\TemplateMethodWithGenerics.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:32:07.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TemplateMethodWithReflection.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Template Method\\TemplateMethodWithReflection.cs",
+              "RelativeDocumentMoniker": "Template Method\\TemplateMethodWithReflection.cs",
+              "ToolTip": "D:\\Code\\DS\\Template Method\\TemplateMethodWithReflection.cs",
+              "RelativeToolTip": "Template Method\\TemplateMethodWithReflection.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:31:59.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TemplateMethodWithStrategy.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Template Method\\TemplateMethodWithStrategy.cs",
+              "RelativeDocumentMoniker": "Template Method\\TemplateMethodWithStrategy.cs",
+              "ToolTip": "D:\\Code\\DS\\Template Method\\TemplateMethodWithStrategy.cs",
+              "RelativeToolTip": "Template Method\\TemplateMethodWithStrategy.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:31:50.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Template Method\\Program.cs",
+              "RelativeDocumentMoniker": "Template Method\\Program.cs",
+              "ToolTip": "D:\\Code\\DS\\Template Method\\Program.cs",
+              "RelativeToolTip": "Template Method\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:24:08.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TemplateMethodWithHook.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Template Method\\TemplateMethodWithHook.cs",
+              "RelativeDocumentMoniker": "Template Method\\TemplateMethodWithHook.cs",
+              "ToolTip": "D:\\Code\\DS\\Template Method\\TemplateMethodWithHook.cs",
+              "RelativeToolTip": "Template Method\\TemplateMethodWithHook.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:31:41.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BasicTemplateMethod.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Template Method\\BasicTemplateMethod.cs",
+              "RelativeDocumentMoniker": "Template Method\\BasicTemplateMethod.cs",
+              "ToolTip": "D:\\Code\\DS\\Template Method\\BasicTemplateMethod.cs",
+              "RelativeToolTip": "Template Method\\BasicTemplateMethod.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:31:26.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "StrategyState.cs",
               "DocumentMoniker": "D:\\Code\\DS\\State\\StrategyState.cs",
               "RelativeDocumentMoniker": "State\\StrategyState.cs",
               "ToolTip": "D:\\Code\\DS\\State\\StrategyState.cs",
               "RelativeToolTip": "State\\StrategyState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T19:17:36.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "ReflectionState.cs",
               "DocumentMoniker": "D:\\Code\\DS\\State\\ReflectionState.cs",
               "RelativeDocumentMoniker": "State\\ReflectionState.cs",
@@ -188,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "SwitchState.cs",
               "DocumentMoniker": "D:\\Code\\DS\\State\\SwitchState.cs",
               "RelativeDocumentMoniker": "State\\SwitchState.cs",
@@ -201,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "EnumState.cs",
               "DocumentMoniker": "D:\\Code\\DS\\State\\EnumState.cs",
               "RelativeDocumentMoniker": "State\\EnumState.cs",
@@ -214,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Context.cs",
               "DocumentMoniker": "D:\\Code\\DS\\State\\Context.cs",
               "RelativeDocumentMoniker": "State\\Context.cs",
@@ -227,7 +329,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\State\\Program.cs",
+              "RelativeDocumentMoniker": "State\\Program.cs",
+              "ToolTip": "D:\\Code\\DS\\State\\Program.cs",
+              "RelativeToolTip": "State\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:14:06.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "State.cs",
               "DocumentMoniker": "D:\\Code\\DS\\State\\State.cs",
               "RelativeDocumentMoniker": "State\\State.cs",
@@ -236,19 +351,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T19:14:10.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\State\\Program.cs",
-              "RelativeDocumentMoniker": "State\\Program.cs",
-              "ToolTip": "D:\\Code\\DS\\State\\Program.cs",
-              "RelativeToolTip": "State\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:14:06.1Z",
               "EditorCaption": ""
             }
           ]
