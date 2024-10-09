@@ -3,6 +3,54 @@
   "WorkspaceRootPath": "D:\\Code\\DS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|d:\\code\\ds\\memento\\serializationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|solutionrelative:memento\\serializationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|d:\\code\\ds\\memento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|solutionrelative:memento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|d:\\code\\ds\\memento\\serializablememento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|solutionrelative:memento\\serializablememento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|d:\\code\\ds\\memento\\deepcopyoriginator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|solutionrelative:memento\\deepcopyoriginator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|d:\\code\\ds\\memento\\deepcopymemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|solutionrelative:memento\\deepcopymemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|d:\\code\\ds\\memento\\undoredocaretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|solutionrelative:memento\\undoredocaretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|d:\\code\\ds\\memento\\complexcaretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|solutionrelative:memento\\complexcaretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|d:\\code\\ds\\memento\\complexoriginator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|solutionrelative:memento\\complexoriginator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|d:\\code\\ds\\memento\\complexmemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|solutionrelative:memento\\complexmemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|d:\\code\\ds\\memento\\caretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|solutionrelative:memento\\caretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|d:\\code\\ds\\memento\\originator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|solutionrelative:memento\\originator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|d:\\code\\ds\\memento\\memento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|solutionrelative:memento\\memento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E4792ABD-B632-4690-B723-D68407EC229E}|Iterator\\Iterator.csproj|d:\\code\\ds\\iterator\\aggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4792ABD-B632-4690-B723-D68407EC229E}|Iterator\\Iterator.csproj|solutionrelative:iterator\\aggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -50,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 34,
+          "SelectedChildIndex": 30,
           "Children": [
             {
               "$type": "Bookmark",
@@ -174,7 +222,163 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SerializationHelper.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Memento\\SerializationHelper.cs",
+              "RelativeDocumentMoniker": "Memento\\SerializationHelper.cs",
+              "ToolTip": "D:\\Code\\DS\\Memento\\SerializationHelper.cs",
+              "RelativeToolTip": "Memento\\SerializationHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:05:57.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "SerializableMemento.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Memento\\SerializableMemento.cs",
+              "RelativeDocumentMoniker": "Memento\\SerializableMemento.cs",
+              "ToolTip": "D:\\Code\\DS\\Memento\\SerializableMemento.cs",
+              "RelativeToolTip": "Memento\\SerializableMemento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:05:48.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeepCopyOriginator.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Memento\\DeepCopyOriginator.cs",
+              "RelativeDocumentMoniker": "Memento\\DeepCopyOriginator.cs",
+              "ToolTip": "D:\\Code\\DS\\Memento\\DeepCopyOriginator.cs",
+              "RelativeToolTip": "Memento\\DeepCopyOriginator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:05:32.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Memento\\Program.cs",
+              "RelativeDocumentMoniker": "Memento\\Program.cs",
+              "ToolTip": "D:\\Code\\DS\\Memento\\Program.cs",
+              "RelativeToolTip": "Memento\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:03:10.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeepCopyMemento.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Memento\\DeepCopyMemento.cs",
+              "RelativeDocumentMoniker": "Memento\\DeepCopyMemento.cs",
+              "ToolTip": "D:\\Code\\DS\\Memento\\DeepCopyMemento.cs",
+              "RelativeToolTip": "Memento\\DeepCopyMemento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:05:16.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UndoRedoCaretaker.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Memento\\UndoRedoCaretaker.cs",
+              "RelativeDocumentMoniker": "Memento\\UndoRedoCaretaker.cs",
+              "ToolTip": "D:\\Code\\DS\\Memento\\UndoRedoCaretaker.cs",
+              "RelativeToolTip": "Memento\\UndoRedoCaretaker.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:04:55.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ComplexCaretaker.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Memento\\ComplexCaretaker.cs",
+              "RelativeDocumentMoniker": "Memento\\ComplexCaretaker.cs",
+              "ToolTip": "D:\\Code\\DS\\Memento\\ComplexCaretaker.cs",
+              "RelativeToolTip": "Memento\\ComplexCaretaker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:04:39.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ComplexOriginator.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Memento\\ComplexOriginator.cs",
+              "RelativeDocumentMoniker": "Memento\\ComplexOriginator.cs",
+              "ToolTip": "D:\\Code\\DS\\Memento\\ComplexOriginator.cs",
+              "RelativeToolTip": "Memento\\ComplexOriginator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:04:28.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ComplexMemento.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Memento\\ComplexMemento.cs",
+              "RelativeDocumentMoniker": "Memento\\ComplexMemento.cs",
+              "ToolTip": "D:\\Code\\DS\\Memento\\ComplexMemento.cs",
+              "RelativeToolTip": "Memento\\ComplexMemento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:04:06.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Caretaker.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Memento\\Caretaker.cs",
+              "RelativeDocumentMoniker": "Memento\\Caretaker.cs",
+              "ToolTip": "D:\\Code\\DS\\Memento\\Caretaker.cs",
+              "RelativeToolTip": "Memento\\Caretaker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:03:42.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Originator.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Memento\\Originator.cs",
+              "RelativeDocumentMoniker": "Memento\\Originator.cs",
+              "ToolTip": "D:\\Code\\DS\\Memento\\Originator.cs",
+              "RelativeToolTip": "Memento\\Originator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:03:29.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Memento.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Memento\\Memento.cs",
+              "RelativeDocumentMoniker": "Memento\\Memento.cs",
+              "ToolTip": "D:\\Code\\DS\\Memento\\Memento.cs",
+              "RelativeToolTip": "Memento\\Memento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:03:17.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "RandomIterator.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Iterator\\RandomIterator.cs",
               "RelativeDocumentMoniker": "Iterator\\RandomIterator.cs",
@@ -187,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "BidirectionalIterator.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Iterator\\BidirectionalIterator.cs",
               "RelativeDocumentMoniker": "Iterator\\BidirectionalIterator.cs",
@@ -200,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "FilterIterator.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Iterator\\FilterIterator.cs",
               "RelativeDocumentMoniker": "Iterator\\FilterIterator.cs",
@@ -213,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Iterator\\Program.cs",
               "RelativeDocumentMoniker": "Iterator\\Program.cs",
@@ -226,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "Aggregate.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Iterator\\Aggregate.cs",
               "RelativeDocumentMoniker": "Iterator\\Aggregate.cs",
@@ -239,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "ReverseIterator.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Iterator\\ReverseIterator.cs",
               "RelativeDocumentMoniker": "Iterator\\ReverseIterator.cs",
@@ -252,7 +456,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "ConcreteAggregate.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Iterator\\ConcreteAggregate.cs",
               "RelativeDocumentMoniker": "Iterator\\ConcreteAggregate.cs",
@@ -265,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "ConcreteIterator.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Iterator\\ConcreteIterator.cs",
               "RelativeDocumentMoniker": "Iterator\\ConcreteIterator.cs",
@@ -278,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 20,
               "Title": "IIterator.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Iterator\\IIterator.cs",
               "RelativeDocumentMoniker": "Iterator\\IIterator.cs",
@@ -291,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 21,
               "Title": "ResultHandler.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Chain of Responsibility\\ResultHandler.cs",
               "RelativeDocumentMoniker": "Chain of Responsibility\\ResultHandler.cs",
