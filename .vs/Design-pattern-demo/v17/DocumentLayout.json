@@ -3,92 +3,32 @@
   "WorkspaceRootPath": "D:\\Code\\DS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|d:\\code\\ds\\memento\\serializationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|solutionrelative:memento\\serializationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|d:\\code\\ds\\state\\strategystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|solutionrelative:state\\strategystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|d:\\code\\ds\\memento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|solutionrelative:memento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|d:\\code\\ds\\state\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|solutionrelative:state\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|d:\\code\\ds\\memento\\serializablememento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|solutionrelative:memento\\serializablememento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|d:\\code\\ds\\state\\reflectionstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|solutionrelative:state\\reflectionstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|d:\\code\\ds\\memento\\deepcopyoriginator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|solutionrelative:memento\\deepcopyoriginator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|d:\\code\\ds\\state\\switchstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|solutionrelative:state\\switchstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|d:\\code\\ds\\memento\\deepcopymemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|solutionrelative:memento\\deepcopymemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|d:\\code\\ds\\state\\enumstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|solutionrelative:state\\enumstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|d:\\code\\ds\\memento\\undoredocaretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|solutionrelative:memento\\undoredocaretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|d:\\code\\ds\\state\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|solutionrelative:state\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|d:\\code\\ds\\memento\\complexcaretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|solutionrelative:memento\\complexcaretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|d:\\code\\ds\\memento\\complexoriginator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|solutionrelative:memento\\complexoriginator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|d:\\code\\ds\\memento\\complexmemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|solutionrelative:memento\\complexmemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|d:\\code\\ds\\memento\\caretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|solutionrelative:memento\\caretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|d:\\code\\ds\\memento\\originator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|solutionrelative:memento\\originator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|d:\\code\\ds\\memento\\memento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3414FB-289C-4E6C-9ED4-8AA96094B80E}|Memento\\Memento.csproj|solutionrelative:memento\\memento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4792ABD-B632-4690-B723-D68407EC229E}|Iterator\\Iterator.csproj|d:\\code\\ds\\iterator\\aggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4792ABD-B632-4690-B723-D68407EC229E}|Iterator\\Iterator.csproj|solutionrelative:iterator\\aggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4792ABD-B632-4690-B723-D68407EC229E}|Iterator\\Iterator.csproj|d:\\code\\ds\\iterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4792ABD-B632-4690-B723-D68407EC229E}|Iterator\\Iterator.csproj|solutionrelative:iterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4792ABD-B632-4690-B723-D68407EC229E}|Iterator\\Iterator.csproj|d:\\code\\ds\\iterator\\randomiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4792ABD-B632-4690-B723-D68407EC229E}|Iterator\\Iterator.csproj|solutionrelative:iterator\\randomiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4792ABD-B632-4690-B723-D68407EC229E}|Iterator\\Iterator.csproj|d:\\code\\ds\\iterator\\bidirectionaliterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4792ABD-B632-4690-B723-D68407EC229E}|Iterator\\Iterator.csproj|solutionrelative:iterator\\bidirectionaliterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4792ABD-B632-4690-B723-D68407EC229E}|Iterator\\Iterator.csproj|d:\\code\\ds\\iterator\\filteriterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4792ABD-B632-4690-B723-D68407EC229E}|Iterator\\Iterator.csproj|solutionrelative:iterator\\filteriterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4792ABD-B632-4690-B723-D68407EC229E}|Iterator\\Iterator.csproj|d:\\code\\ds\\iterator\\reverseiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4792ABD-B632-4690-B723-D68407EC229E}|Iterator\\Iterator.csproj|solutionrelative:iterator\\reverseiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4792ABD-B632-4690-B723-D68407EC229E}|Iterator\\Iterator.csproj|d:\\code\\ds\\iterator\\concreteaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4792ABD-B632-4690-B723-D68407EC229E}|Iterator\\Iterator.csproj|solutionrelative:iterator\\concreteaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4792ABD-B632-4690-B723-D68407EC229E}|Iterator\\Iterator.csproj|d:\\code\\ds\\iterator\\concreteiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4792ABD-B632-4690-B723-D68407EC229E}|Iterator\\Iterator.csproj|solutionrelative:iterator\\concreteiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4792ABD-B632-4690-B723-D68407EC229E}|Iterator\\Iterator.csproj|d:\\code\\ds\\iterator\\iiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4792ABD-B632-4690-B723-D68407EC229E}|Iterator\\Iterator.csproj|solutionrelative:iterator\\iiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61EA9A6D-72C7-4229-BB11-4CAA4FDC76E5}|Chain of Responsibility\\Chain of Responsibility.csproj|d:\\code\\ds\\chain of responsibility\\resulthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61EA9A6D-72C7-4229-BB11-4CAA4FDC76E5}|Chain of Responsibility\\Chain of Responsibility.csproj|solutionrelative:chain of responsibility\\resulthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|d:\\code\\ds\\state\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|solutionrelative:state\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -223,287 +163,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SerializationHelper.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Memento\\SerializationHelper.cs",
-              "RelativeDocumentMoniker": "Memento\\SerializationHelper.cs",
-              "ToolTip": "D:\\Code\\DS\\Memento\\SerializationHelper.cs",
-              "RelativeToolTip": "Memento\\SerializationHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "StrategyState.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\State\\StrategyState.cs",
+              "RelativeDocumentMoniker": "State\\StrategyState.cs",
+              "ToolTip": "D:\\Code\\DS\\State\\StrategyState.cs",
+              "RelativeToolTip": "State\\StrategyState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:05:57.145Z",
+              "WhenOpened": "2024-10-09T19:17:36.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SerializableMemento.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Memento\\SerializableMemento.cs",
-              "RelativeDocumentMoniker": "Memento\\SerializableMemento.cs",
-              "ToolTip": "D:\\Code\\DS\\Memento\\SerializableMemento.cs",
-              "RelativeToolTip": "Memento\\SerializableMemento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "ReflectionState.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\State\\ReflectionState.cs",
+              "RelativeDocumentMoniker": "State\\ReflectionState.cs",
+              "ToolTip": "D:\\Code\\DS\\State\\ReflectionState.cs",
+              "RelativeToolTip": "State\\ReflectionState.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA8wCIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:05:48.41Z",
+              "WhenOpened": "2024-10-09T19:17:21.353Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DeepCopyOriginator.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Memento\\DeepCopyOriginator.cs",
-              "RelativeDocumentMoniker": "Memento\\DeepCopyOriginator.cs",
-              "ToolTip": "D:\\Code\\DS\\Memento\\DeepCopyOriginator.cs",
-              "RelativeToolTip": "Memento\\DeepCopyOriginator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Title": "SwitchState.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\State\\SwitchState.cs",
+              "RelativeDocumentMoniker": "State\\SwitchState.cs",
+              "ToolTip": "D:\\Code\\DS\\State\\SwitchState.cs",
+              "RelativeToolTip": "State\\SwitchState.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:05:32.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Memento\\Program.cs",
-              "RelativeDocumentMoniker": "Memento\\Program.cs",
-              "ToolTip": "D:\\Code\\DS\\Memento\\Program.cs",
-              "RelativeToolTip": "Memento\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwEsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:03:10.974Z",
+              "WhenOpened": "2024-10-09T19:17:12.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DeepCopyMemento.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Memento\\DeepCopyMemento.cs",
-              "RelativeDocumentMoniker": "Memento\\DeepCopyMemento.cs",
-              "ToolTip": "D:\\Code\\DS\\Memento\\DeepCopyMemento.cs",
-              "RelativeToolTip": "Memento\\DeepCopyMemento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Title": "EnumState.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\State\\EnumState.cs",
+              "RelativeDocumentMoniker": "State\\EnumState.cs",
+              "ToolTip": "D:\\Code\\DS\\State\\EnumState.cs",
+              "RelativeToolTip": "State\\EnumState.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:05:16.664Z",
+              "WhenOpened": "2024-10-09T19:16:48.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\State\\Context.cs",
+              "RelativeDocumentMoniker": "State\\Context.cs",
+              "ToolTip": "D:\\Code\\DS\\State\\Context.cs",
+              "RelativeToolTip": "State\\Context.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:14:21.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UndoRedoCaretaker.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Memento\\UndoRedoCaretaker.cs",
-              "RelativeDocumentMoniker": "Memento\\UndoRedoCaretaker.cs",
-              "ToolTip": "D:\\Code\\DS\\Memento\\UndoRedoCaretaker.cs",
-              "RelativeToolTip": "Memento\\UndoRedoCaretaker.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCcAAAAAAAAAAAAAAA==",
+              "Title": "State.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\State\\State.cs",
+              "RelativeDocumentMoniker": "State\\State.cs",
+              "ToolTip": "D:\\Code\\DS\\State\\State.cs",
+              "RelativeToolTip": "State\\State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:04:55.561Z",
+              "WhenOpened": "2024-10-09T19:14:10.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ComplexCaretaker.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Memento\\ComplexCaretaker.cs",
-              "RelativeDocumentMoniker": "Memento\\ComplexCaretaker.cs",
-              "ToolTip": "D:\\Code\\DS\\Memento\\ComplexCaretaker.cs",
-              "RelativeToolTip": "Memento\\ComplexCaretaker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:04:39.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ComplexOriginator.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Memento\\ComplexOriginator.cs",
-              "RelativeDocumentMoniker": "Memento\\ComplexOriginator.cs",
-              "ToolTip": "D:\\Code\\DS\\Memento\\ComplexOriginator.cs",
-              "RelativeToolTip": "Memento\\ComplexOriginator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:04:28.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ComplexMemento.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Memento\\ComplexMemento.cs",
-              "RelativeDocumentMoniker": "Memento\\ComplexMemento.cs",
-              "ToolTip": "D:\\Code\\DS\\Memento\\ComplexMemento.cs",
-              "RelativeToolTip": "Memento\\ComplexMemento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:04:06.575Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Caretaker.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Memento\\Caretaker.cs",
-              "RelativeDocumentMoniker": "Memento\\Caretaker.cs",
-              "ToolTip": "D:\\Code\\DS\\Memento\\Caretaker.cs",
-              "RelativeToolTip": "Memento\\Caretaker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:03:42.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Originator.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Memento\\Originator.cs",
-              "RelativeDocumentMoniker": "Memento\\Originator.cs",
-              "ToolTip": "D:\\Code\\DS\\Memento\\Originator.cs",
-              "RelativeToolTip": "Memento\\Originator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:03:29.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Memento.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Memento\\Memento.cs",
-              "RelativeDocumentMoniker": "Memento\\Memento.cs",
-              "ToolTip": "D:\\Code\\DS\\Memento\\Memento.cs",
-              "RelativeToolTip": "Memento\\Memento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:03:17.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "RandomIterator.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Iterator\\RandomIterator.cs",
-              "RelativeDocumentMoniker": "Iterator\\RandomIterator.cs",
-              "ToolTip": "D:\\Code\\DS\\Iterator\\RandomIterator.cs",
-              "RelativeToolTip": "Iterator\\RandomIterator.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T18:55:49.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BidirectionalIterator.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Iterator\\BidirectionalIterator.cs",
-              "RelativeDocumentMoniker": "Iterator\\BidirectionalIterator.cs",
-              "ToolTip": "D:\\Code\\DS\\Iterator\\BidirectionalIterator.cs",
-              "RelativeToolTip": "Iterator\\BidirectionalIterator.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T18:55:40.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "FilterIterator.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Iterator\\FilterIterator.cs",
-              "RelativeDocumentMoniker": "Iterator\\FilterIterator.cs",
-              "ToolTip": "D:\\Code\\DS\\Iterator\\FilterIterator.cs",
-              "RelativeToolTip": "Iterator\\FilterIterator.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA8wC4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T18:55:32.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Iterator\\Program.cs",
-              "RelativeDocumentMoniker": "Iterator\\Program.cs",
-              "ToolTip": "D:\\Code\\DS\\Iterator\\Program.cs",
-              "RelativeToolTip": "Iterator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAArAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Code\\DS\\State\\Program.cs",
+              "RelativeDocumentMoniker": "State\\Program.cs",
+              "ToolTip": "D:\\Code\\DS\\State\\Program.cs",
+              "RelativeToolTip": "State\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T18:54:09.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Aggregate.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Iterator\\Aggregate.cs",
-              "RelativeDocumentMoniker": "Iterator\\Aggregate.cs",
-              "ToolTip": "D:\\Code\\DS\\Iterator\\Aggregate.cs",
-              "RelativeToolTip": "Iterator\\Aggregate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T18:54:32.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ReverseIterator.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Iterator\\ReverseIterator.cs",
-              "RelativeDocumentMoniker": "Iterator\\ReverseIterator.cs",
-              "ToolTip": "D:\\Code\\DS\\Iterator\\ReverseIterator.cs",
-              "RelativeToolTip": "Iterator\\ReverseIterator.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA+wCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T18:55:22.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ConcreteAggregate.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Iterator\\ConcreteAggregate.cs",
-              "RelativeDocumentMoniker": "Iterator\\ConcreteAggregate.cs",
-              "ToolTip": "D:\\Code\\DS\\Iterator\\ConcreteAggregate.cs",
-              "RelativeToolTip": "Iterator\\ConcreteAggregate.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvxUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T18:54:43.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ConcreteIterator.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Iterator\\ConcreteIterator.cs",
-              "RelativeDocumentMoniker": "Iterator\\ConcreteIterator.cs",
-              "ToolTip": "D:\\Code\\DS\\Iterator\\ConcreteIterator.cs",
-              "RelativeToolTip": "Iterator\\ConcreteIterator.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAmwCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T18:54:23.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IIterator.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Iterator\\IIterator.cs",
-              "RelativeDocumentMoniker": "Iterator\\IIterator.cs",
-              "ToolTip": "D:\\Code\\DS\\Iterator\\IIterator.cs",
-              "RelativeToolTip": "Iterator\\IIterator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T18:54:14.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ResultHandler.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Chain of Responsibility\\ResultHandler.cs",
-              "RelativeDocumentMoniker": "Chain of Responsibility\\ResultHandler.cs",
-              "ToolTip": "D:\\Code\\DS\\Chain of Responsibility\\ResultHandler.cs",
-              "RelativeToolTip": "Chain of Responsibility\\ResultHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T18:51:18.472Z",
+              "WhenOpened": "2024-10-09T19:14:06.1Z",
               "EditorCaption": ""
             }
           ]
