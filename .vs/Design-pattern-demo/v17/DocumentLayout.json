@@ -3,6 +3,90 @@
   "WorkspaceRootPath": "D:\\Code\\DS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{61EA9A6D-72C7-4229-BB11-4CAA4FDC76E5}|Chain of Responsibility\\Chain of Responsibility.csproj|d:\\code\\ds\\chain of responsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61EA9A6D-72C7-4229-BB11-4CAA4FDC76E5}|Chain of Responsibility\\Chain of Responsibility.csproj|solutionrelative:chain of responsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61EA9A6D-72C7-4229-BB11-4CAA4FDC76E5}|Chain of Responsibility\\Chain of Responsibility.csproj|d:\\code\\ds\\chain of responsibility\\priorityhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61EA9A6D-72C7-4229-BB11-4CAA4FDC76E5}|Chain of Responsibility\\Chain of Responsibility.csproj|solutionrelative:chain of responsibility\\priorityhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61EA9A6D-72C7-4229-BB11-4CAA4FDC76E5}|Chain of Responsibility\\Chain of Responsibility.csproj|d:\\code\\ds\\chain of responsibility\\logginghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61EA9A6D-72C7-4229-BB11-4CAA4FDC76E5}|Chain of Responsibility\\Chain of Responsibility.csproj|solutionrelative:chain of responsibility\\logginghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61EA9A6D-72C7-4229-BB11-4CAA4FDC76E5}|Chain of Responsibility\\Chain of Responsibility.csproj|d:\\code\\ds\\chain of responsibility\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61EA9A6D-72C7-4229-BB11-4CAA4FDC76E5}|Chain of Responsibility\\Chain of Responsibility.csproj|solutionrelative:chain of responsibility\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61EA9A6D-72C7-4229-BB11-4CAA4FDC76E5}|Chain of Responsibility\\Chain of Responsibility.csproj|d:\\code\\ds\\chain of responsibility\\resulthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61EA9A6D-72C7-4229-BB11-4CAA4FDC76E5}|Chain of Responsibility\\Chain of Responsibility.csproj|solutionrelative:chain of responsibility\\resulthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61EA9A6D-72C7-4229-BB11-4CAA4FDC76E5}|Chain of Responsibility\\Chain of Responsibility.csproj|d:\\code\\ds\\chain of responsibility\\breakablehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61EA9A6D-72C7-4229-BB11-4CAA4FDC76E5}|Chain of Responsibility\\Chain of Responsibility.csproj|solutionrelative:chain of responsibility\\breakablehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61EA9A6D-72C7-4229-BB11-4CAA4FDC76E5}|Chain of Responsibility\\Chain of Responsibility.csproj|d:\\code\\ds\\chain of responsibility\\concretehandlerb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61EA9A6D-72C7-4229-BB11-4CAA4FDC76E5}|Chain of Responsibility\\Chain of Responsibility.csproj|solutionrelative:chain of responsibility\\concretehandlerb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61EA9A6D-72C7-4229-BB11-4CAA4FDC76E5}|Chain of Responsibility\\Chain of Responsibility.csproj|d:\\code\\ds\\chain of responsibility\\concretehandlera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61EA9A6D-72C7-4229-BB11-4CAA4FDC76E5}|Chain of Responsibility\\Chain of Responsibility.csproj|solutionrelative:chain of responsibility\\concretehandlera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61EA9A6D-72C7-4229-BB11-4CAA4FDC76E5}|Chain of Responsibility\\Chain of Responsibility.csproj|d:\\code\\ds\\chain of responsibility\\basehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61EA9A6D-72C7-4229-BB11-4CAA4FDC76E5}|Chain of Responsibility\\Chain of Responsibility.csproj|solutionrelative:chain of responsibility\\basehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61EA9A6D-72C7-4229-BB11-4CAA4FDC76E5}|Chain of Responsibility\\Chain of Responsibility.csproj|d:\\code\\ds\\chain of responsibility\\ihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61EA9A6D-72C7-4229-BB11-4CAA4FDC76E5}|Chain of Responsibility\\Chain of Responsibility.csproj|solutionrelative:chain of responsibility\\ihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB45221-4A96-44AF-8CE6-B63D94A1A5E8}|Proxy\\Proxy.csproj|d:\\code\\ds\\proxy\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB45221-4A96-44AF-8CE6-B63D94A1A5E8}|Proxy\\Proxy.csproj|solutionrelative:proxy\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB45221-4A96-44AF-8CE6-B63D94A1A5E8}|Proxy\\Proxy.csproj|d:\\code\\ds\\proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB45221-4A96-44AF-8CE6-B63D94A1A5E8}|Proxy\\Proxy.csproj|solutionrelative:proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB45221-4A96-44AF-8CE6-B63D94A1A5E8}|Proxy\\Proxy.csproj|d:\\code\\ds\\proxy\\cachingproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB45221-4A96-44AF-8CE6-B63D94A1A5E8}|Proxy\\Proxy.csproj|solutionrelative:proxy\\cachingproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB45221-4A96-44AF-8CE6-B63D94A1A5E8}|Proxy\\Proxy.csproj|d:\\code\\ds\\proxy\\smartproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB45221-4A96-44AF-8CE6-B63D94A1A5E8}|Proxy\\Proxy.csproj|solutionrelative:proxy\\smartproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB45221-4A96-44AF-8CE6-B63D94A1A5E8}|Proxy\\Proxy.csproj|d:\\code\\ds\\proxy\\remoteproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB45221-4A96-44AF-8CE6-B63D94A1A5E8}|Proxy\\Proxy.csproj|solutionrelative:proxy\\remoteproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB45221-4A96-44AF-8CE6-B63D94A1A5E8}|Proxy\\Proxy.csproj|d:\\code\\ds\\proxy\\protectionproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB45221-4A96-44AF-8CE6-B63D94A1A5E8}|Proxy\\Proxy.csproj|solutionrelative:proxy\\protectionproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB45221-4A96-44AF-8CE6-B63D94A1A5E8}|Proxy\\Proxy.csproj|d:\\code\\ds\\proxy\\virtualproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB45221-4A96-44AF-8CE6-B63D94A1A5E8}|Proxy\\Proxy.csproj|solutionrelative:proxy\\virtualproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB45221-4A96-44AF-8CE6-B63D94A1A5E8}|Proxy\\Proxy.csproj|d:\\code\\ds\\proxy\\realsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB45221-4A96-44AF-8CE6-B63D94A1A5E8}|Proxy\\Proxy.csproj|solutionrelative:proxy\\realsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|d:\\code\\ds\\bridge\\bridge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|solutionrelative:bridge\\bridge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC16639D-A0E8-4171-9C58-2EA44123B0AB}|Flyweight\\Flyweight.csproj|d:\\code\\ds\\flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC16639D-A0E8-4171-9C58-2EA44123B0AB}|Flyweight\\Flyweight.csproj|solutionrelative:flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608EB22F-E5E4-49DF-9E47-72CE66297E1C}|Facade\\Facade.csproj|d:\\code\\ds\\facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608EB22F-E5E4-49DF-9E47-72CE66297E1C}|Facade\\Facade.csproj|solutionrelative:facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EC16639D-A0E8-4171-9C58-2EA44123B0AB}|Flyweight\\Flyweight.csproj|d:\\code\\ds\\flyweight\\approaches\\genericflyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC16639D-A0E8-4171-9C58-2EA44123B0AB}|Flyweight\\Flyweight.csproj|solutionrelative:flyweight\\approaches\\genericflyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +97,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EC16639D-A0E8-4171-9C58-2EA44123B0AB}|Flyweight\\Flyweight.csproj|d:\\code\\ds\\flyweight\\flyweightfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC16639D-A0E8-4171-9C58-2EA44123B0AB}|Flyweight\\Flyweight.csproj|solutionrelative:flyweight\\flyweightfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC16639D-A0E8-4171-9C58-2EA44123B0AB}|Flyweight\\Flyweight.csproj|d:\\code\\ds\\flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC16639D-A0E8-4171-9C58-2EA44123B0AB}|Flyweight\\Flyweight.csproj|solutionrelative:flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|d:\\code\\ds\\bridge\\approaches\\genericapproach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -105,10 +185,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|d:\\code\\ds\\bridge\\shapes\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|solutionrelative:bridge\\shapes\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|d:\\code\\ds\\bridge\\bridge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{27A2BCBE-E008-463F-85CC-AEF988F1AAE4}|Bridge\\Bridge.csproj|solutionrelative:bridge\\bridge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,359 +194,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 34,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GenericFlyweight.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Flyweight\\Approaches\\GenericFlyweight.cs",
-              "RelativeDocumentMoniker": "Flyweight\\Approaches\\GenericFlyweight.cs",
-              "ToolTip": "D:\\Code\\DS\\Flyweight\\Approaches\\GenericFlyweight.cs",
-              "RelativeToolTip": "Flyweight\\Approaches\\GenericFlyweight.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T18:59:29.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ConcreteFlyweight.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Flyweight\\ConcreteFlyweight.cs",
-              "RelativeDocumentMoniker": "Flyweight\\ConcreteFlyweight.cs",
-              "ToolTip": "D:\\Code\\DS\\Flyweight\\ConcreteFlyweight.cs",
-              "RelativeToolTip": "Flyweight\\ConcreteFlyweight.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T18:59:00.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FlyweightFactory.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Flyweight\\FlyweightFactory.cs",
-              "RelativeDocumentMoniker": "Flyweight\\FlyweightFactory.cs",
-              "ToolTip": "D:\\Code\\DS\\Flyweight\\FlyweightFactory.cs",
-              "RelativeToolTip": "Flyweight\\FlyweightFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T18:59:04.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GenericApproach.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Approaches\\GenericApproach.cs",
-              "RelativeDocumentMoniker": "Bridge\\Approaches\\GenericApproach.cs",
-              "ToolTip": "D:\\Code\\DS\\Bridge\\Approaches\\GenericApproach.cs",
-              "RelativeToolTip": "Bridge\\Approaches\\GenericApproach.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T17:39:11.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Flyweight\\Program.cs",
-              "RelativeDocumentMoniker": "Flyweight\\Program.cs",
-              "ToolTip": "D:\\Code\\DS\\Flyweight\\Program.cs",
-              "RelativeToolTip": "Flyweight\\Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAmwDgAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T18:58:51.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GenericFacade.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Facade\\Approaches\\GenericFacade.cs",
-              "RelativeDocumentMoniker": "Facade\\Approaches\\GenericFacade.cs",
-              "ToolTip": "D:\\Code\\DS\\Facade\\Approaches\\GenericFacade.cs",
-              "RelativeToolTip": "Facade\\Approaches\\GenericFacade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T17:52:02.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "InterfaceAndAbstractFlyweight.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Flyweight\\Approaches\\InterfaceAndAbstractFlyweight.cs",
-              "RelativeDocumentMoniker": "Flyweight\\Approaches\\InterfaceAndAbstractFlyweight.cs",
-              "ToolTip": "D:\\Code\\DS\\Flyweight\\Approaches\\InterfaceAndAbstractFlyweight.cs",
-              "RelativeToolTip": "Flyweight\\Approaches\\InterfaceAndAbstractFlyweight.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T18:59:23.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "InterfaceAndAbstractFacade.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Facade\\Approaches\\InterfaceAndAbstractFacade.cs",
-              "RelativeDocumentMoniker": "Facade\\Approaches\\InterfaceAndAbstractFacade.cs",
-              "ToolTip": "D:\\Code\\DS\\Facade\\Approaches\\InterfaceAndAbstractFacade.cs",
-              "RelativeToolTip": "Facade\\Approaches\\InterfaceAndAbstractFacade.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAmwCEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T17:51:53.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EventHandlerFlyweight.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Flyweight\\Approaches\\EventHandlerFlyweight.cs",
-              "RelativeDocumentMoniker": "Flyweight\\Approaches\\EventHandlerFlyweight.cs",
-              "ToolTip": "D:\\Code\\DS\\Flyweight\\Approaches\\EventHandlerFlyweight.cs",
-              "RelativeToolTip": "Flyweight\\Approaches\\EventHandlerFlyweight.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T18:59:32.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DelegateFlyweight.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Flyweight\\Approaches\\DelegateFlyweight.cs",
-              "RelativeDocumentMoniker": "Flyweight\\Approaches\\DelegateFlyweight.cs",
-              "ToolTip": "D:\\Code\\DS\\Flyweight\\Approaches\\DelegateFlyweight.cs",
-              "RelativeToolTip": "Flyweight\\Approaches\\DelegateFlyweight.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T18:59:26.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SubsystemA.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Facade\\Subsystems\\SubsystemA.cs",
-              "RelativeDocumentMoniker": "Facade\\Subsystems\\SubsystemA.cs",
-              "ToolTip": "D:\\Code\\DS\\Facade\\Subsystems\\SubsystemA.cs",
-              "RelativeToolTip": "Facade\\Subsystems\\SubsystemA.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T17:51:37.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SubsystemB.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Facade\\Subsystems\\SubsystemB.cs",
-              "RelativeDocumentMoniker": "Facade\\Subsystems\\SubsystemB.cs",
-              "ToolTip": "D:\\Code\\DS\\Facade\\Subsystems\\SubsystemB.cs",
-              "RelativeToolTip": "Facade\\Subsystems\\SubsystemB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T17:51:42.408Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SubsystemC.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Facade\\Subsystems\\SubsystemC.cs",
-              "RelativeDocumentMoniker": "Facade\\Subsystems\\SubsystemC.cs",
-              "ToolTip": "D:\\Code\\DS\\Facade\\Subsystems\\SubsystemC.cs",
-              "RelativeToolTip": "Facade\\Subsystems\\SubsystemC.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T17:51:47.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Program.cs",
-              "RelativeDocumentMoniker": "Bridge\\Program.cs",
-              "ToolTip": "D:\\Code\\DS\\Bridge\\Program.cs",
-              "RelativeToolTip": "Bridge\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCEAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T17:41:17.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "EventHandlerFacade.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Facade\\Approaches\\EventHandlerFacade.cs",
-              "RelativeDocumentMoniker": "Facade\\Approaches\\EventHandlerFacade.cs",
-              "ToolTip": "D:\\Code\\DS\\Facade\\Approaches\\EventHandlerFacade.cs",
-              "RelativeToolTip": "Facade\\Approaches\\EventHandlerFacade.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T17:52:06.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DelegateFacade.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Facade\\Approaches\\DelegateFacade.cs",
-              "RelativeDocumentMoniker": "Facade\\Approaches\\DelegateFacade.cs",
-              "ToolTip": "D:\\Code\\DS\\Facade\\Approaches\\DelegateFacade.cs",
-              "RelativeToolTip": "Facade\\Approaches\\DelegateFacade.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAmwCcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T17:51:59.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "InterfaceAndAbstract.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Approaches\\InterfaceAndAbstract.cs",
-              "RelativeDocumentMoniker": "Bridge\\Approaches\\InterfaceAndAbstract.cs",
-              "ToolTip": "D:\\Code\\DS\\Bridge\\Approaches\\InterfaceAndAbstract.cs",
-              "RelativeToolTip": "Bridge\\Approaches\\InterfaceAndAbstract.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T17:39:04.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DelegateAndFunc.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Approaches\\DelegateAndFunc.cs",
-              "RelativeDocumentMoniker": "Bridge\\Approaches\\DelegateAndFunc.cs",
-              "ToolTip": "D:\\Code\\DS\\Bridge\\Approaches\\DelegateAndFunc.cs",
-              "RelativeToolTip": "Bridge\\Approaches\\DelegateAndFunc.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAEwBkAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T17:39:07.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "EventHandlerApproach.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Approaches\\EventHandlerApproach.cs",
-              "RelativeDocumentMoniker": "Bridge\\Approaches\\EventHandlerApproach.cs",
-              "ToolTip": "D:\\Code\\DS\\Bridge\\Approaches\\EventHandlerApproach.cs",
-              "RelativeToolTip": "Bridge\\Approaches\\EventHandlerApproach.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T17:39:14.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "V2DrawingAPI.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\DrawingAPI\\V2DrawingAPI.cs",
-              "RelativeDocumentMoniker": "Bridge\\DrawingAPI\\V2DrawingAPI.cs",
-              "ToolTip": "D:\\Code\\DS\\Bridge\\DrawingAPI\\V2DrawingAPI.cs",
-              "RelativeToolTip": "Bridge\\DrawingAPI\\V2DrawingAPI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T17:38:59.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "V1DrawingAPI.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\DrawingAPI\\V1DrawingAPI.cs",
-              "RelativeDocumentMoniker": "Bridge\\DrawingAPI\\V1DrawingAPI.cs",
-              "ToolTip": "D:\\Code\\DS\\Bridge\\DrawingAPI\\V1DrawingAPI.cs",
-              "RelativeToolTip": "Bridge\\DrawingAPI\\V1DrawingAPI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T17:38:55.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IDrawAPI.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\DrawingAPI\\IDrawAPI.cs",
-              "RelativeDocumentMoniker": "Bridge\\DrawingAPI\\IDrawAPI.cs",
-              "ToolTip": "D:\\Code\\DS\\Bridge\\DrawingAPI\\IDrawAPI.cs",
-              "RelativeToolTip": "Bridge\\DrawingAPI\\IDrawAPI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T17:38:47.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Rectangle.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Shapes\\Rectangle.cs",
-              "RelativeDocumentMoniker": "Bridge\\Shapes\\Rectangle.cs",
-              "ToolTip": "D:\\Code\\DS\\Bridge\\Shapes\\Rectangle.cs",
-              "RelativeToolTip": "Bridge\\Shapes\\Rectangle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T17:38:42.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Circle.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Shapes\\Circle.cs",
-              "RelativeDocumentMoniker": "Bridge\\Shapes\\Circle.cs",
-              "ToolTip": "D:\\Code\\DS\\Bridge\\Shapes\\Circle.cs",
-              "RelativeToolTip": "Bridge\\Shapes\\Circle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T17:38:37.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ShapeBase.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Shapes\\ShapeBase.cs",
-              "RelativeDocumentMoniker": "Bridge\\Shapes\\ShapeBase.cs",
-              "ToolTip": "D:\\Code\\DS\\Bridge\\Shapes\\ShapeBase.cs",
-              "RelativeToolTip": "Bridge\\Shapes\\ShapeBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T17:38:32.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IShape.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Shapes\\IShape.cs",
-              "RelativeDocumentMoniker": "Bridge\\Shapes\\IShape.cs",
-              "ToolTip": "D:\\Code\\DS\\Bridge\\Shapes\\IShape.cs",
-              "RelativeToolTip": "Bridge\\Shapes\\IShape.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T17:38:28.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Bridge",
-              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Bridge.csproj",
-              "RelativeDocumentMoniker": "Bridge\\Bridge.csproj",
-              "ToolTip": "D:\\Code\\DS\\Bridge\\Bridge.csproj",
-              "RelativeToolTip": "Bridge\\Bridge.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-08T15:13:02.037Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -590,6 +315,578 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PriorityHandler.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Chain of Responsibility\\PriorityHandler.cs",
+              "RelativeDocumentMoniker": "Chain of Responsibility\\PriorityHandler.cs",
+              "ToolTip": "D:\\Code\\DS\\Chain of Responsibility\\PriorityHandler.cs",
+              "RelativeToolTip": "Chain of Responsibility\\PriorityHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:46:05.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoggingHandler.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Chain of Responsibility\\LoggingHandler.cs",
+              "RelativeDocumentMoniker": "Chain of Responsibility\\LoggingHandler.cs",
+              "ToolTip": "D:\\Code\\DS\\Chain of Responsibility\\LoggingHandler.cs",
+              "RelativeToolTip": "Chain of Responsibility\\LoggingHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:45:56.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionHandler.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Chain of Responsibility\\ExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Chain of Responsibility\\ExceptionHandler.cs",
+              "ToolTip": "D:\\Code\\DS\\Chain of Responsibility\\ExceptionHandler.cs",
+              "RelativeToolTip": "Chain of Responsibility\\ExceptionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:45:43.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResultHandler.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Chain of Responsibility\\ResultHandler.cs",
+              "RelativeDocumentMoniker": "Chain of Responsibility\\ResultHandler.cs",
+              "ToolTip": "D:\\Code\\DS\\Chain of Responsibility\\ResultHandler.cs",
+              "RelativeToolTip": "Chain of Responsibility\\ResultHandler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:45:04.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Chain of Responsibility\\Program.cs",
+              "RelativeDocumentMoniker": "Chain of Responsibility\\Program.cs",
+              "ToolTip": "D:\\Code\\DS\\Chain of Responsibility\\Program.cs",
+              "RelativeToolTip": "Chain of Responsibility\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:43:19.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BreakableHandler.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Chain of Responsibility\\BreakableHandler.cs",
+              "RelativeDocumentMoniker": "Chain of Responsibility\\BreakableHandler.cs",
+              "ToolTip": "D:\\Code\\DS\\Chain of Responsibility\\BreakableHandler.cs",
+              "RelativeToolTip": "Chain of Responsibility\\BreakableHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:44:34.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConcreteHandlerB.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Chain of Responsibility\\ConcreteHandlerB.cs",
+              "RelativeDocumentMoniker": "Chain of Responsibility\\ConcreteHandlerB.cs",
+              "ToolTip": "D:\\Code\\DS\\Chain of Responsibility\\ConcreteHandlerB.cs",
+              "RelativeToolTip": "Chain of Responsibility\\ConcreteHandlerB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:44:24.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConcreteHandlerA.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Chain of Responsibility\\ConcreteHandlerA.cs",
+              "RelativeDocumentMoniker": "Chain of Responsibility\\ConcreteHandlerA.cs",
+              "ToolTip": "D:\\Code\\DS\\Chain of Responsibility\\ConcreteHandlerA.cs",
+              "RelativeToolTip": "Chain of Responsibility\\ConcreteHandlerA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:44:17.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseHandler.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Chain of Responsibility\\BaseHandler.cs",
+              "RelativeDocumentMoniker": "Chain of Responsibility\\BaseHandler.cs",
+              "ToolTip": "D:\\Code\\DS\\Chain of Responsibility\\BaseHandler.cs",
+              "RelativeToolTip": "Chain of Responsibility\\BaseHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:43:39.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IHandler.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Chain of Responsibility\\IHandler.cs",
+              "RelativeDocumentMoniker": "Chain of Responsibility\\IHandler.cs",
+              "ToolTip": "D:\\Code\\DS\\Chain of Responsibility\\IHandler.cs",
+              "RelativeToolTip": "Chain of Responsibility\\IHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:43:29.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CachingProxy.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Proxy\\CachingProxy.cs",
+              "RelativeDocumentMoniker": "Proxy\\CachingProxy.cs",
+              "ToolTip": "D:\\Code\\DS\\Proxy\\CachingProxy.cs",
+              "RelativeToolTip": "Proxy\\CachingProxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:28:07.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SmartProxy.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Proxy\\SmartProxy.cs",
+              "RelativeDocumentMoniker": "Proxy\\SmartProxy.cs",
+              "ToolTip": "D:\\Code\\DS\\Proxy\\SmartProxy.cs",
+              "RelativeToolTip": "Proxy\\SmartProxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:27:58.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RemoteProxy.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Proxy\\RemoteProxy.cs",
+              "RelativeDocumentMoniker": "Proxy\\RemoteProxy.cs",
+              "ToolTip": "D:\\Code\\DS\\Proxy\\RemoteProxy.cs",
+              "RelativeToolTip": "Proxy\\RemoteProxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:27:50.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProtectionProxy.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Proxy\\ProtectionProxy.cs",
+              "RelativeDocumentMoniker": "Proxy\\ProtectionProxy.cs",
+              "ToolTip": "D:\\Code\\DS\\Proxy\\ProtectionProxy.cs",
+              "RelativeToolTip": "Proxy\\ProtectionProxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:27:40.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Proxy\\Program.cs",
+              "RelativeDocumentMoniker": "Proxy\\Program.cs",
+              "ToolTip": "D:\\Code\\DS\\Proxy\\Program.cs",
+              "RelativeToolTip": "Proxy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:14:20.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISubject.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Proxy\\ISubject.cs",
+              "RelativeDocumentMoniker": "Proxy\\ISubject.cs",
+              "ToolTip": "D:\\Code\\DS\\Proxy\\ISubject.cs",
+              "RelativeToolTip": "Proxy\\ISubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:26:58.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VirtualProxy.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Proxy\\VirtualProxy.cs",
+              "RelativeDocumentMoniker": "Proxy\\VirtualProxy.cs",
+              "ToolTip": "D:\\Code\\DS\\Proxy\\VirtualProxy.cs",
+              "RelativeToolTip": "Proxy\\VirtualProxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:27:30.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RealSubject.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Proxy\\RealSubject.cs",
+              "RelativeDocumentMoniker": "Proxy\\RealSubject.cs",
+              "ToolTip": "D:\\Code\\DS\\Proxy\\RealSubject.cs",
+              "RelativeToolTip": "Proxy\\RealSubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:27:09.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GenericFlyweight.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Flyweight\\Approaches\\GenericFlyweight.cs",
+              "RelativeDocumentMoniker": "Flyweight\\Approaches\\GenericFlyweight.cs",
+              "ToolTip": "D:\\Code\\DS\\Flyweight\\Approaches\\GenericFlyweight.cs",
+              "RelativeToolTip": "Flyweight\\Approaches\\GenericFlyweight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:59:29.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ConcreteFlyweight.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Flyweight\\ConcreteFlyweight.cs",
+              "RelativeDocumentMoniker": "Flyweight\\ConcreteFlyweight.cs",
+              "ToolTip": "D:\\Code\\DS\\Flyweight\\ConcreteFlyweight.cs",
+              "RelativeToolTip": "Flyweight\\ConcreteFlyweight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:59:00.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FlyweightFactory.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Flyweight\\FlyweightFactory.cs",
+              "RelativeDocumentMoniker": "Flyweight\\FlyweightFactory.cs",
+              "ToolTip": "D:\\Code\\DS\\Flyweight\\FlyweightFactory.cs",
+              "RelativeToolTip": "Flyweight\\FlyweightFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:59:04.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Flyweight\\Program.cs",
+              "RelativeDocumentMoniker": "Flyweight\\Program.cs",
+              "ToolTip": "D:\\Code\\DS\\Flyweight\\Program.cs",
+              "RelativeToolTip": "Flyweight\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAB8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:58:51.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Bridge.csproj",
+              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Bridge.csproj",
+              "RelativeDocumentMoniker": "Bridge\\Bridge.csproj",
+              "ToolTip": "D:\\Code\\DS\\Bridge\\Bridge.csproj",
+              "RelativeToolTip": "Bridge\\Bridge.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T15:13:02.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Facade\\Program.cs",
+              "RelativeDocumentMoniker": "Facade\\Program.cs",
+              "ToolTip": "D:\\Code\\DS\\Facade\\Program.cs",
+              "RelativeToolTip": "Facade\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwCAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:19:09.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GenericApproach.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Approaches\\GenericApproach.cs",
+              "RelativeDocumentMoniker": "Bridge\\Approaches\\GenericApproach.cs",
+              "ToolTip": "D:\\Code\\DS\\Bridge\\Approaches\\GenericApproach.cs",
+              "RelativeToolTip": "Bridge\\Approaches\\GenericApproach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:39:11.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GenericFacade.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Facade\\Approaches\\GenericFacade.cs",
+              "RelativeDocumentMoniker": "Facade\\Approaches\\GenericFacade.cs",
+              "ToolTip": "D:\\Code\\DS\\Facade\\Approaches\\GenericFacade.cs",
+              "RelativeToolTip": "Facade\\Approaches\\GenericFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:52:02.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "InterfaceAndAbstractFlyweight.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Flyweight\\Approaches\\InterfaceAndAbstractFlyweight.cs",
+              "RelativeDocumentMoniker": "Flyweight\\Approaches\\InterfaceAndAbstractFlyweight.cs",
+              "ToolTip": "D:\\Code\\DS\\Flyweight\\Approaches\\InterfaceAndAbstractFlyweight.cs",
+              "RelativeToolTip": "Flyweight\\Approaches\\InterfaceAndAbstractFlyweight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:59:23.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "InterfaceAndAbstractFacade.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Facade\\Approaches\\InterfaceAndAbstractFacade.cs",
+              "RelativeDocumentMoniker": "Facade\\Approaches\\InterfaceAndAbstractFacade.cs",
+              "ToolTip": "D:\\Code\\DS\\Facade\\Approaches\\InterfaceAndAbstractFacade.cs",
+              "RelativeToolTip": "Facade\\Approaches\\InterfaceAndAbstractFacade.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:51:53.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EventHandlerFlyweight.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Flyweight\\Approaches\\EventHandlerFlyweight.cs",
+              "RelativeDocumentMoniker": "Flyweight\\Approaches\\EventHandlerFlyweight.cs",
+              "ToolTip": "D:\\Code\\DS\\Flyweight\\Approaches\\EventHandlerFlyweight.cs",
+              "RelativeToolTip": "Flyweight\\Approaches\\EventHandlerFlyweight.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:59:32.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DelegateFlyweight.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Flyweight\\Approaches\\DelegateFlyweight.cs",
+              "RelativeDocumentMoniker": "Flyweight\\Approaches\\DelegateFlyweight.cs",
+              "ToolTip": "D:\\Code\\DS\\Flyweight\\Approaches\\DelegateFlyweight.cs",
+              "RelativeToolTip": "Flyweight\\Approaches\\DelegateFlyweight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:59:26.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SubsystemA.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Facade\\Subsystems\\SubsystemA.cs",
+              "RelativeDocumentMoniker": "Facade\\Subsystems\\SubsystemA.cs",
+              "ToolTip": "D:\\Code\\DS\\Facade\\Subsystems\\SubsystemA.cs",
+              "RelativeToolTip": "Facade\\Subsystems\\SubsystemA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:51:37.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SubsystemB.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Facade\\Subsystems\\SubsystemB.cs",
+              "RelativeDocumentMoniker": "Facade\\Subsystems\\SubsystemB.cs",
+              "ToolTip": "D:\\Code\\DS\\Facade\\Subsystems\\SubsystemB.cs",
+              "RelativeToolTip": "Facade\\Subsystems\\SubsystemB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:51:42.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SubsystemC.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Facade\\Subsystems\\SubsystemC.cs",
+              "RelativeDocumentMoniker": "Facade\\Subsystems\\SubsystemC.cs",
+              "ToolTip": "D:\\Code\\DS\\Facade\\Subsystems\\SubsystemC.cs",
+              "RelativeToolTip": "Facade\\Subsystems\\SubsystemC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:51:47.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Program.cs",
+              "RelativeDocumentMoniker": "Bridge\\Program.cs",
+              "ToolTip": "D:\\Code\\DS\\Bridge\\Program.cs",
+              "RelativeToolTip": "Bridge\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:41:17.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EventHandlerFacade.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Facade\\Approaches\\EventHandlerFacade.cs",
+              "RelativeDocumentMoniker": "Facade\\Approaches\\EventHandlerFacade.cs",
+              "ToolTip": "D:\\Code\\DS\\Facade\\Approaches\\EventHandlerFacade.cs",
+              "RelativeToolTip": "Facade\\Approaches\\EventHandlerFacade.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:52:06.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DelegateFacade.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Facade\\Approaches\\DelegateFacade.cs",
+              "RelativeDocumentMoniker": "Facade\\Approaches\\DelegateFacade.cs",
+              "ToolTip": "D:\\Code\\DS\\Facade\\Approaches\\DelegateFacade.cs",
+              "RelativeToolTip": "Facade\\Approaches\\DelegateFacade.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:51:59.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "InterfaceAndAbstract.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Approaches\\InterfaceAndAbstract.cs",
+              "RelativeDocumentMoniker": "Bridge\\Approaches\\InterfaceAndAbstract.cs",
+              "ToolTip": "D:\\Code\\DS\\Bridge\\Approaches\\InterfaceAndAbstract.cs",
+              "RelativeToolTip": "Bridge\\Approaches\\InterfaceAndAbstract.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:39:04.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DelegateAndFunc.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Approaches\\DelegateAndFunc.cs",
+              "RelativeDocumentMoniker": "Bridge\\Approaches\\DelegateAndFunc.cs",
+              "ToolTip": "D:\\Code\\DS\\Bridge\\Approaches\\DelegateAndFunc.cs",
+              "RelativeToolTip": "Bridge\\Approaches\\DelegateAndFunc.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAEwBkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:39:07.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EventHandlerApproach.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Approaches\\EventHandlerApproach.cs",
+              "RelativeDocumentMoniker": "Bridge\\Approaches\\EventHandlerApproach.cs",
+              "ToolTip": "D:\\Code\\DS\\Bridge\\Approaches\\EventHandlerApproach.cs",
+              "RelativeToolTip": "Bridge\\Approaches\\EventHandlerApproach.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:39:14.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "V2DrawingAPI.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\DrawingAPI\\V2DrawingAPI.cs",
+              "RelativeDocumentMoniker": "Bridge\\DrawingAPI\\V2DrawingAPI.cs",
+              "ToolTip": "D:\\Code\\DS\\Bridge\\DrawingAPI\\V2DrawingAPI.cs",
+              "RelativeToolTip": "Bridge\\DrawingAPI\\V2DrawingAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:38:59.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "V1DrawingAPI.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\DrawingAPI\\V1DrawingAPI.cs",
+              "RelativeDocumentMoniker": "Bridge\\DrawingAPI\\V1DrawingAPI.cs",
+              "ToolTip": "D:\\Code\\DS\\Bridge\\DrawingAPI\\V1DrawingAPI.cs",
+              "RelativeToolTip": "Bridge\\DrawingAPI\\V1DrawingAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:38:55.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IDrawAPI.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\DrawingAPI\\IDrawAPI.cs",
+              "RelativeDocumentMoniker": "Bridge\\DrawingAPI\\IDrawAPI.cs",
+              "ToolTip": "D:\\Code\\DS\\Bridge\\DrawingAPI\\IDrawAPI.cs",
+              "RelativeToolTip": "Bridge\\DrawingAPI\\IDrawAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:38:47.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Shapes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Bridge\\Shapes\\Rectangle.cs",
+              "ToolTip": "D:\\Code\\DS\\Bridge\\Shapes\\Rectangle.cs",
+              "RelativeToolTip": "Bridge\\Shapes\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:38:42.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "Bridge\\Shapes\\Circle.cs",
+              "ToolTip": "D:\\Code\\DS\\Bridge\\Shapes\\Circle.cs",
+              "RelativeToolTip": "Bridge\\Shapes\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:38:37.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ShapeBase.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Shapes\\ShapeBase.cs",
+              "RelativeDocumentMoniker": "Bridge\\Shapes\\ShapeBase.cs",
+              "ToolTip": "D:\\Code\\DS\\Bridge\\Shapes\\ShapeBase.cs",
+              "RelativeToolTip": "Bridge\\Shapes\\ShapeBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:38:32.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Bridge\\Shapes\\IShape.cs",
+              "RelativeDocumentMoniker": "Bridge\\Shapes\\IShape.cs",
+              "ToolTip": "D:\\Code\\DS\\Bridge\\Shapes\\IShape.cs",
+              "RelativeToolTip": "Bridge\\Shapes\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:38:28.198Z"
             }
           ]
         },
