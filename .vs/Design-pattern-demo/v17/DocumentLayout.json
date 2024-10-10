@@ -3,12 +3,68 @@
   "WorkspaceRootPath": "D:\\Code\\DS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A95EF4E-BA13-4191-9639-F0EC491F57E4}|Mediator\\Mediator.csproj|d:\\code\\ds\\mediator\\dynamicregistrationmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A95EF4E-BA13-4191-9639-F0EC491F57E4}|Mediator\\Mediator.csproj|solutionrelative:mediator\\dynamicregistrationmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85B30345-7627-445B-9AC2-F5124FE8E9BD}|Strategy\\Strategy.csproj|d:\\code\\ds\\strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B30345-7627-445B-9AC2-F5124FE8E9BD}|Strategy\\Strategy.csproj|solutionrelative:strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B30345-7627-445B-9AC2-F5124FE8E9BD}|Strategy\\Strategy.csproj|d:\\code\\ds\\strategy\\dynamicstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B30345-7627-445B-9AC2-F5124FE8E9BD}|Strategy\\Strategy.csproj|solutionrelative:strategy\\dynamicstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B30345-7627-445B-9AC2-F5124FE8E9BD}|Strategy\\Strategy.csproj|d:\\code\\ds\\strategy\\di_strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B30345-7627-445B-9AC2-F5124FE8E9BD}|Strategy\\Strategy.csproj|solutionrelative:strategy\\di_strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B30345-7627-445B-9AC2-F5124FE8E9BD}|Strategy\\Strategy.csproj|d:\\code\\ds\\strategy\\funcstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B30345-7627-445B-9AC2-F5124FE8E9BD}|Strategy\\Strategy.csproj|solutionrelative:strategy\\funcstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B30345-7627-445B-9AC2-F5124FE8E9BD}|Strategy\\Strategy.csproj|d:\\code\\ds\\strategy\\delegatestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B30345-7627-445B-9AC2-F5124FE8E9BD}|Strategy\\Strategy.csproj|solutionrelative:strategy\\delegatestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B30345-7627-445B-9AC2-F5124FE8E9BD}|Strategy\\Strategy.csproj|d:\\code\\ds\\strategy\\basicstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B30345-7627-445B-9AC2-F5124FE8E9BD}|Strategy\\Strategy.csproj|solutionrelative:strategy\\basicstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B30345-7627-445B-9AC2-F5124FE8E9BD}|Strategy\\Strategy.csproj|d:\\code\\ds\\strategy\\strategy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{85B30345-7627-445B-9AC2-F5124FE8E9BD}|Strategy\\Strategy.csproj|solutionrelative:strategy\\strategy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAD41A3-CC4F-404E-B37E-F3BE81E9E9C6}|Observer\\Observer.csproj|d:\\code\\ds\\observer\\pullmodelobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAD41A3-CC4F-404E-B37E-F3BE81E9E9C6}|Observer\\Observer.csproj|solutionrelative:observer\\pullmodelobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAD41A3-CC4F-404E-B37E-F3BE81E9E9C6}|Observer\\Observer.csproj|d:\\code\\ds\\observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAD41A3-CC4F-404E-B37E-F3BE81E9E9C6}|Observer\\Observer.csproj|solutionrelative:observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAD41A3-CC4F-404E-B37E-F3BE81E9E9C6}|Observer\\Observer.csproj|d:\\code\\ds\\observer\\weakreferenceobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAD41A3-CC4F-404E-B37E-F3BE81E9E9C6}|Observer\\Observer.csproj|solutionrelative:observer\\weakreferenceobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAD41A3-CC4F-404E-B37E-F3BE81E9E9C6}|Observer\\Observer.csproj|d:\\code\\ds\\observer\\eventdrivenobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAD41A3-CC4F-404E-B37E-F3BE81E9E9C6}|Observer\\Observer.csproj|solutionrelative:observer\\eventdrivenobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAD41A3-CC4F-404E-B37E-F3BE81E9E9C6}|Observer\\Observer.csproj|d:\\code\\ds\\observer\\pushmodelobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAD41A3-CC4F-404E-B37E-F3BE81E9E9C6}|Observer\\Observer.csproj|solutionrelative:observer\\pushmodelobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAD41A3-CC4F-404E-B37E-F3BE81E9E9C6}|Observer\\Observer.csproj|d:\\code\\ds\\observer\\basicobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAD41A3-CC4F-404E-B37E-F3BE81E9E9C6}|Observer\\Observer.csproj|solutionrelative:observer\\basicobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A95EF4E-BA13-4191-9639-F0EC491F57E4}|Mediator\\Mediator.csproj|d:\\code\\ds\\mediator\\basicmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A95EF4E-BA13-4191-9639-F0EC491F57E4}|Mediator\\Mediator.csproj|solutionrelative:mediator\\basicmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A95EF4E-BA13-4191-9639-F0EC491F57E4}|Mediator\\Mediator.csproj|d:\\code\\ds\\mediator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A95EF4E-BA13-4191-9639-F0EC491F57E4}|Mediator\\Mediator.csproj|solutionrelative:mediator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A95EF4E-BA13-4191-9639-F0EC491F57E4}|Mediator\\Mediator.csproj|d:\\code\\ds\\mediator\\dynamicregistrationmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A95EF4E-BA13-4191-9639-F0EC491F57E4}|Mediator\\Mediator.csproj|solutionrelative:mediator\\dynamicregistrationmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A95EF4E-BA13-4191-9639-F0EC491F57E4}|Mediator\\Mediator.csproj|d:\\code\\ds\\mediator\\colleaguemediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6A95EF4E-BA13-4191-9639-F0EC491F57E4}|Mediator\\Mediator.csproj|d:\\code\\ds\\mediator\\eventaggregatormediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A95EF4E-BA13-4191-9639-F0EC491F57E4}|Mediator\\Mediator.csproj|solutionrelative:mediator\\eventaggregatormediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A95EF4E-BA13-4191-9639-F0EC491F57E4}|Mediator\\Mediator.csproj|d:\\code\\ds\\mediator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A95EF4E-BA13-4191-9639-F0EC491F57E4}|Mediator\\Mediator.csproj|solutionrelative:mediator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76C05448-C40E-4493-82F8-4845D6641F38}|Command\\Command.csproj|d:\\code\\ds\\command\\basiccommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,8 +106,99 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 30,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DynamicStrategy.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Strategy\\DynamicStrategy.cs",
+              "RelativeDocumentMoniker": "Strategy\\DynamicStrategy.cs",
+              "ToolTip": "D:\\Code\\DS\\Strategy\\DynamicStrategy.cs",
+              "RelativeToolTip": "Strategy\\DynamicStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T02:24:52.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DI_Strategy.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Strategy\\DI_Strategy.cs",
+              "RelativeDocumentMoniker": "Strategy\\DI_Strategy.cs",
+              "ToolTip": "D:\\Code\\DS\\Strategy\\DI_Strategy.cs",
+              "RelativeToolTip": "Strategy\\DI_Strategy.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T02:24:42.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FuncStrategy.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Strategy\\FuncStrategy.cs",
+              "RelativeDocumentMoniker": "Strategy\\FuncStrategy.cs",
+              "ToolTip": "D:\\Code\\DS\\Strategy\\FuncStrategy.cs",
+              "RelativeToolTip": "Strategy\\FuncStrategy.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T02:24:26.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DelegateStrategy.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Strategy\\DelegateStrategy.cs",
+              "RelativeDocumentMoniker": "Strategy\\DelegateStrategy.cs",
+              "ToolTip": "D:\\Code\\DS\\Strategy\\DelegateStrategy.cs",
+              "RelativeToolTip": "Strategy\\DelegateStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T02:24:12.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Strategy\\Program.cs",
+              "RelativeDocumentMoniker": "Strategy\\Program.cs",
+              "ToolTip": "D:\\Code\\DS\\Strategy\\Program.cs",
+              "RelativeToolTip": "Strategy\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAqwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T02:23:39.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BasicStrategy.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Strategy\\BasicStrategy.cs",
+              "RelativeDocumentMoniker": "Strategy\\BasicStrategy.cs",
+              "ToolTip": "D:\\Code\\DS\\Strategy\\BasicStrategy.cs",
+              "RelativeToolTip": "Strategy\\BasicStrategy.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T02:23:56.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Strategy",
+              "DocumentMoniker": "D:\\Code\\DS\\Strategy\\Strategy.csproj",
+              "RelativeDocumentMoniker": "Strategy\\Strategy.csproj",
+              "ToolTip": "D:\\Code\\DS\\Strategy\\Strategy.csproj",
+              "RelativeToolTip": "Strategy\\Strategy.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T02:23:53.986Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -178,7 +321,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "PullModelObserver.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Observer\\PullModelObserver.cs",
+              "RelativeDocumentMoniker": "Observer\\PullModelObserver.cs",
+              "ToolTip": "D:\\Code\\DS\\Observer\\PullModelObserver.cs",
+              "RelativeToolTip": "Observer\\PullModelObserver.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T02:07:38.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeakReferenceObserver.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Observer\\WeakReferenceObserver.cs",
+              "RelativeDocumentMoniker": "Observer\\WeakReferenceObserver.cs",
+              "ToolTip": "D:\\Code\\DS\\Observer\\WeakReferenceObserver.cs",
+              "RelativeToolTip": "Observer\\WeakReferenceObserver.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T02:07:02.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventDrivenObserver.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Observer\\EventDrivenObserver.cs",
+              "RelativeDocumentMoniker": "Observer\\EventDrivenObserver.cs",
+              "ToolTip": "D:\\Code\\DS\\Observer\\EventDrivenObserver.cs",
+              "RelativeToolTip": "Observer\\EventDrivenObserver.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T02:06:50.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PushModelObserver.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Observer\\PushModelObserver.cs",
+              "RelativeDocumentMoniker": "Observer\\PushModelObserver.cs",
+              "ToolTip": "D:\\Code\\DS\\Observer\\PushModelObserver.cs",
+              "RelativeToolTip": "Observer\\PushModelObserver.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T02:03:59.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Observer\\Program.cs",
+              "RelativeDocumentMoniker": "Observer\\Program.cs",
+              "ToolTip": "D:\\Code\\DS\\Observer\\Program.cs",
+              "RelativeToolTip": "Observer\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA4wBYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T02:03:30.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BasicObserver.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Observer\\BasicObserver.cs",
+              "RelativeDocumentMoniker": "Observer\\BasicObserver.cs",
+              "ToolTip": "D:\\Code\\DS\\Observer\\BasicObserver.cs",
+              "RelativeToolTip": "Observer\\BasicObserver.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T02:03:42.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "DynamicRegistrationMediator.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Mediator\\DynamicRegistrationMediator.cs",
               "RelativeDocumentMoniker": "Mediator\\DynamicRegistrationMediator.cs",
@@ -191,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "ColleagueMediator.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Mediator\\ColleagueMediator.cs",
               "RelativeDocumentMoniker": "Mediator\\ColleagueMediator.cs",
@@ -204,7 +425,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
+              "Title": "BasicMediator.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Mediator\\BasicMediator.cs",
+              "RelativeDocumentMoniker": "Mediator\\BasicMediator.cs",
+              "ToolTip": "D:\\Code\\DS\\Mediator\\BasicMediator.cs",
+              "RelativeToolTip": "Mediator\\BasicMediator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:33:44.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Mediator\\Program.cs",
+              "RelativeDocumentMoniker": "Mediator\\Program.cs",
+              "ToolTip": "D:\\Code\\DS\\Mediator\\Program.cs",
+              "RelativeToolTip": "Mediator\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwC8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:33:20.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "EventAggregatorMediator.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Mediator\\EventAggregatorMediator.cs",
               "RelativeDocumentMoniker": "Mediator\\EventAggregatorMediator.cs",
@@ -217,33 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BasicMediator.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Mediator\\BasicMediator.cs",
-              "RelativeDocumentMoniker": "Mediator\\BasicMediator.cs",
-              "ToolTip": "D:\\Code\\DS\\Mediator\\BasicMediator.cs",
-              "RelativeToolTip": "Mediator\\BasicMediator.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAEwDYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T01:33:44.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Mediator\\Program.cs",
-              "RelativeDocumentMoniker": "Mediator\\Program.cs",
-              "ToolTip": "D:\\Code\\DS\\Mediator\\Program.cs",
-              "RelativeToolTip": "Mediator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T01:33:20.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
               "Title": "ReceiverInjectionCommand.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Command\\ReceiverInjectionCommand.cs",
               "RelativeDocumentMoniker": "Command\\ReceiverInjectionCommand.cs",
@@ -256,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
               "Title": "CallbackCommand.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Command\\CallbackCommand.cs",
               "RelativeDocumentMoniker": "Command\\CallbackCommand.cs",
@@ -269,7 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 22,
               "Title": "MacroCommand.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Command\\MacroCommand.cs",
               "RelativeDocumentMoniker": "Command\\MacroCommand.cs",
@@ -282,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Command\\Program.cs",
               "RelativeDocumentMoniker": "Command\\Program.cs",
@@ -295,7 +516,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 18,
               "Title": "BasicCommand.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Command\\BasicCommand.cs",
               "RelativeDocumentMoniker": "Command\\BasicCommand.cs",
@@ -308,7 +529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
               "Title": "UndoableCommand.cs",
               "DocumentMoniker": "D:\\Code\\DS\\Command\\UndoableCommand.cs",
               "RelativeDocumentMoniker": "Command\\UndoableCommand.cs",
