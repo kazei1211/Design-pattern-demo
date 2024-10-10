@@ -3,56 +3,48 @@
   "WorkspaceRootPath": "D:\\Code\\DS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CEBD3AD-DE2E-4097-9D48-3EBA7336B7DF}|Template Method\\Template Method.csproj|d:\\code\\ds\\template method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CEBD3AD-DE2E-4097-9D48-3EBA7336B7DF}|Template Method\\Template Method.csproj|solutionrelative:template method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A95EF4E-BA13-4191-9639-F0EC491F57E4}|Mediator\\Mediator.csproj|d:\\code\\ds\\mediator\\dynamicregistrationmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A95EF4E-BA13-4191-9639-F0EC491F57E4}|Mediator\\Mediator.csproj|solutionrelative:mediator\\dynamicregistrationmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CEBD3AD-DE2E-4097-9D48-3EBA7336B7DF}|Template Method\\Template Method.csproj|d:\\code\\ds\\template method\\templatemethodwithgenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CEBD3AD-DE2E-4097-9D48-3EBA7336B7DF}|Template Method\\Template Method.csproj|solutionrelative:template method\\templatemethodwithgenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A95EF4E-BA13-4191-9639-F0EC491F57E4}|Mediator\\Mediator.csproj|d:\\code\\ds\\mediator\\basicmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A95EF4E-BA13-4191-9639-F0EC491F57E4}|Mediator\\Mediator.csproj|solutionrelative:mediator\\basicmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CEBD3AD-DE2E-4097-9D48-3EBA7336B7DF}|Template Method\\Template Method.csproj|d:\\code\\ds\\template method\\templatemethodwithreflection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CEBD3AD-DE2E-4097-9D48-3EBA7336B7DF}|Template Method\\Template Method.csproj|solutionrelative:template method\\templatemethodwithreflection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A95EF4E-BA13-4191-9639-F0EC491F57E4}|Mediator\\Mediator.csproj|d:\\code\\ds\\mediator\\colleaguemediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A95EF4E-BA13-4191-9639-F0EC491F57E4}|Mediator\\Mediator.csproj|solutionrelative:mediator\\colleaguemediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CEBD3AD-DE2E-4097-9D48-3EBA7336B7DF}|Template Method\\Template Method.csproj|d:\\code\\ds\\template method\\templatemethodwithstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CEBD3AD-DE2E-4097-9D48-3EBA7336B7DF}|Template Method\\Template Method.csproj|solutionrelative:template method\\templatemethodwithstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A95EF4E-BA13-4191-9639-F0EC491F57E4}|Mediator\\Mediator.csproj|d:\\code\\ds\\mediator\\eventaggregatormediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A95EF4E-BA13-4191-9639-F0EC491F57E4}|Mediator\\Mediator.csproj|solutionrelative:mediator\\eventaggregatormediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CEBD3AD-DE2E-4097-9D48-3EBA7336B7DF}|Template Method\\Template Method.csproj|d:\\code\\ds\\template method\\templatemethodwithhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CEBD3AD-DE2E-4097-9D48-3EBA7336B7DF}|Template Method\\Template Method.csproj|solutionrelative:template method\\templatemethodwithhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A95EF4E-BA13-4191-9639-F0EC491F57E4}|Mediator\\Mediator.csproj|d:\\code\\ds\\mediator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A95EF4E-BA13-4191-9639-F0EC491F57E4}|Mediator\\Mediator.csproj|solutionrelative:mediator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CEBD3AD-DE2E-4097-9D48-3EBA7336B7DF}|Template Method\\Template Method.csproj|d:\\code\\ds\\template method\\basictemplatemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CEBD3AD-DE2E-4097-9D48-3EBA7336B7DF}|Template Method\\Template Method.csproj|solutionrelative:template method\\basictemplatemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76C05448-C40E-4493-82F8-4845D6641F38}|Command\\Command.csproj|d:\\code\\ds\\command\\basiccommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C05448-C40E-4493-82F8-4845D6641F38}|Command\\Command.csproj|solutionrelative:command\\basiccommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|d:\\code\\ds\\state\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|solutionrelative:state\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76C05448-C40E-4493-82F8-4845D6641F38}|Command\\Command.csproj|d:\\code\\ds\\command\\callbackcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C05448-C40E-4493-82F8-4845D6641F38}|Command\\Command.csproj|solutionrelative:command\\callbackcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|d:\\code\\ds\\state\\strategystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|solutionrelative:state\\strategystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76C05448-C40E-4493-82F8-4845D6641F38}|Command\\Command.csproj|d:\\code\\ds\\command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C05448-C40E-4493-82F8-4845D6641F38}|Command\\Command.csproj|solutionrelative:command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|d:\\code\\ds\\state\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|solutionrelative:state\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76C05448-C40E-4493-82F8-4845D6641F38}|Command\\Command.csproj|d:\\code\\ds\\command\\receiverinjectioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C05448-C40E-4493-82F8-4845D6641F38}|Command\\Command.csproj|solutionrelative:command\\receiverinjectioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|d:\\code\\ds\\state\\reflectionstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|solutionrelative:state\\reflectionstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76C05448-C40E-4493-82F8-4845D6641F38}|Command\\Command.csproj|d:\\code\\ds\\command\\macrocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C05448-C40E-4493-82F8-4845D6641F38}|Command\\Command.csproj|solutionrelative:command\\macrocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|d:\\code\\ds\\state\\switchstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|solutionrelative:state\\switchstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|d:\\code\\ds\\state\\enumstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|solutionrelative:state\\enumstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|d:\\code\\ds\\state\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44B43B9E-5E22-46C0-A2DC-F83FC9EFEC9C}|State\\State.csproj|solutionrelative:state\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76C05448-C40E-4493-82F8-4845D6641F38}|Command\\Command.csproj|d:\\code\\ds\\command\\undoablecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C05448-C40E-4493-82F8-4845D6641F38}|Command\\Command.csproj|solutionrelative:command\\undoablecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 33,
+          "SelectedChildIndex": 30,
           "Children": [
             {
               "$type": "Bookmark",
@@ -186,171 +178,145 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TemplateMethodWithGenerics.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Template Method\\TemplateMethodWithGenerics.cs",
-              "RelativeDocumentMoniker": "Template Method\\TemplateMethodWithGenerics.cs",
-              "ToolTip": "D:\\Code\\DS\\Template Method\\TemplateMethodWithGenerics.cs",
-              "RelativeToolTip": "Template Method\\TemplateMethodWithGenerics.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAqwCcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "DynamicRegistrationMediator.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Mediator\\DynamicRegistrationMediator.cs",
+              "RelativeDocumentMoniker": "Mediator\\DynamicRegistrationMediator.cs",
+              "ToolTip": "D:\\Code\\DS\\Mediator\\DynamicRegistrationMediator.cs",
+              "RelativeToolTip": "Mediator\\DynamicRegistrationMediator.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:32:07.092Z",
+              "WhenOpened": "2024-10-10T01:34:29.705Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TemplateMethodWithReflection.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Template Method\\TemplateMethodWithReflection.cs",
-              "RelativeDocumentMoniker": "Template Method\\TemplateMethodWithReflection.cs",
-              "ToolTip": "D:\\Code\\DS\\Template Method\\TemplateMethodWithReflection.cs",
-              "RelativeToolTip": "Template Method\\TemplateMethodWithReflection.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAqwC0AAAAAAAAAAAAAAA==",
+              "Title": "ColleagueMediator.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Mediator\\ColleagueMediator.cs",
+              "RelativeDocumentMoniker": "Mediator\\ColleagueMediator.cs",
+              "ToolTip": "D:\\Code\\DS\\Mediator\\ColleagueMediator.cs",
+              "RelativeToolTip": "Mediator\\ColleagueMediator.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:31:59.439Z",
+              "WhenOpened": "2024-10-10T01:34:17.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TemplateMethodWithStrategy.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Template Method\\TemplateMethodWithStrategy.cs",
-              "RelativeDocumentMoniker": "Template Method\\TemplateMethodWithStrategy.cs",
-              "ToolTip": "D:\\Code\\DS\\Template Method\\TemplateMethodWithStrategy.cs",
-              "RelativeToolTip": "Template Method\\TemplateMethodWithStrategy.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAqwD8AAAAAAAAAAAAAAA==",
+              "Title": "EventAggregatorMediator.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Mediator\\EventAggregatorMediator.cs",
+              "RelativeDocumentMoniker": "Mediator\\EventAggregatorMediator.cs",
+              "ToolTip": "D:\\Code\\DS\\Mediator\\EventAggregatorMediator.cs",
+              "RelativeToolTip": "Mediator\\EventAggregatorMediator.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:31:50.981Z",
+              "WhenOpened": "2024-10-10T01:34:02.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Template Method\\Program.cs",
-              "RelativeDocumentMoniker": "Template Method\\Program.cs",
-              "ToolTip": "D:\\Code\\DS\\Template Method\\Program.cs",
-              "RelativeToolTip": "Template Method\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAqwD8AAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "BasicMediator.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Mediator\\BasicMediator.cs",
+              "RelativeDocumentMoniker": "Mediator\\BasicMediator.cs",
+              "ToolTip": "D:\\Code\\DS\\Mediator\\BasicMediator.cs",
+              "RelativeToolTip": "Mediator\\BasicMediator.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAEwDYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:24:08.072Z",
+              "WhenOpened": "2024-10-10T01:33:44.938Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "TemplateMethodWithHook.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Template Method\\TemplateMethodWithHook.cs",
-              "RelativeDocumentMoniker": "Template Method\\TemplateMethodWithHook.cs",
-              "ToolTip": "D:\\Code\\DS\\Template Method\\TemplateMethodWithHook.cs",
-              "RelativeToolTip": "Template Method\\TemplateMethodWithHook.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAqwDwAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Mediator\\Program.cs",
+              "RelativeDocumentMoniker": "Mediator\\Program.cs",
+              "ToolTip": "D:\\Code\\DS\\Mediator\\Program.cs",
+              "RelativeToolTip": "Mediator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:31:41.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BasicTemplateMethod.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\Template Method\\BasicTemplateMethod.cs",
-              "RelativeDocumentMoniker": "Template Method\\BasicTemplateMethod.cs",
-              "ToolTip": "D:\\Code\\DS\\Template Method\\BasicTemplateMethod.cs",
-              "RelativeToolTip": "Template Method\\BasicTemplateMethod.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAuwC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:31:26.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StrategyState.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\State\\StrategyState.cs",
-              "RelativeDocumentMoniker": "State\\StrategyState.cs",
-              "ToolTip": "D:\\Code\\DS\\State\\StrategyState.cs",
-              "RelativeToolTip": "State\\StrategyState.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:17:36.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ReflectionState.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\State\\ReflectionState.cs",
-              "RelativeDocumentMoniker": "State\\ReflectionState.cs",
-              "ToolTip": "D:\\Code\\DS\\State\\ReflectionState.cs",
-              "RelativeToolTip": "State\\ReflectionState.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA8wCIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:17:21.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SwitchState.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\State\\SwitchState.cs",
-              "RelativeDocumentMoniker": "State\\SwitchState.cs",
-              "ToolTip": "D:\\Code\\DS\\State\\SwitchState.cs",
-              "RelativeToolTip": "State\\SwitchState.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAmwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:17:12.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EnumState.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\State\\EnumState.cs",
-              "RelativeDocumentMoniker": "State\\EnumState.cs",
-              "ToolTip": "D:\\Code\\DS\\State\\EnumState.cs",
-              "RelativeToolTip": "State\\EnumState.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:16:48.654Z",
+              "WhenOpened": "2024-10-10T01:33:20.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Context.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\State\\Context.cs",
-              "RelativeDocumentMoniker": "State\\Context.cs",
-              "ToolTip": "D:\\Code\\DS\\State\\Context.cs",
-              "RelativeToolTip": "State\\Context.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAoAAAAeAAAAAAAAAA==",
+              "Title": "ReceiverInjectionCommand.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Command\\ReceiverInjectionCommand.cs",
+              "RelativeDocumentMoniker": "Command\\ReceiverInjectionCommand.cs",
+              "ToolTip": "D:\\Code\\DS\\Command\\ReceiverInjectionCommand.cs",
+              "RelativeToolTip": "Command\\ReceiverInjectionCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:14:21.403Z",
+              "WhenOpened": "2024-10-10T01:20:04.413Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\State\\Program.cs",
-              "RelativeDocumentMoniker": "State\\Program.cs",
-              "ToolTip": "D:\\Code\\DS\\State\\Program.cs",
-              "RelativeToolTip": "State\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAQAAAABAAAAAAAAAA==",
+              "Title": "CallbackCommand.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Command\\CallbackCommand.cs",
+              "RelativeDocumentMoniker": "Command\\CallbackCommand.cs",
+              "ToolTip": "D:\\Code\\DS\\Command\\CallbackCommand.cs",
+              "RelativeToolTip": "Command\\CallbackCommand.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA+wCIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:14:06.1Z",
+              "WhenOpened": "2024-10-10T01:19:48.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "State.cs",
-              "DocumentMoniker": "D:\\Code\\DS\\State\\State.cs",
-              "RelativeDocumentMoniker": "State\\State.cs",
-              "ToolTip": "D:\\Code\\DS\\State\\State.cs",
-              "RelativeToolTip": "State\\State.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "MacroCommand.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Command\\MacroCommand.cs",
+              "RelativeDocumentMoniker": "Command\\MacroCommand.cs",
+              "ToolTip": "D:\\Code\\DS\\Command\\MacroCommand.cs",
+              "RelativeToolTip": "Command\\MacroCommand.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:14:10.649Z",
+              "WhenOpened": "2024-10-10T01:19:34.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Command\\Program.cs",
+              "RelativeDocumentMoniker": "Command\\Program.cs",
+              "ToolTip": "D:\\Code\\DS\\Command\\Program.cs",
+              "RelativeToolTip": "Command\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:18:34.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BasicCommand.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Command\\BasicCommand.cs",
+              "RelativeDocumentMoniker": "Command\\BasicCommand.cs",
+              "ToolTip": "D:\\Code\\DS\\Command\\BasicCommand.cs",
+              "RelativeToolTip": "Command\\BasicCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:18:55.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UndoableCommand.cs",
+              "DocumentMoniker": "D:\\Code\\DS\\Command\\UndoableCommand.cs",
+              "RelativeDocumentMoniker": "Command\\UndoableCommand.cs",
+              "ToolTip": "D:\\Code\\DS\\Command\\UndoableCommand.cs",
+              "RelativeToolTip": "Command\\UndoableCommand.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAA4wEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:19:16.621Z",
               "EditorCaption": ""
             }
           ]
